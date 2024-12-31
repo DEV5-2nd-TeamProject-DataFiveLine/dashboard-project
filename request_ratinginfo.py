@@ -5,7 +5,7 @@ import time
 from extract_ISBN import extract_isbn
 
 
-key = "ttbgland451437001"
+key = ""
 isbn = extract_isbn("bestseller_data")
 OptResult = "ratingInfo" #reviewList" #"ebookList","usedList",
 Version = 20131101
