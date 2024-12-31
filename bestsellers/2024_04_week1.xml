@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=4&amp;Week=1&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:40 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=4;Week=1</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="335848856">
+			    <title>로봇 드림</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335848856&amp;partner=openAPI&amp;start=api</link>
+				<author>사라 바론 (지은이)</author>
+				<pubDate>2024-03-27</pubDate> 
+				<description>시체스 영화제, 유럽영화상 등 여러 영화제에서 호평을 받은 &amp;lt;로봇 드림&amp;gt;의 원작 그래픽노블. 대사 한 마디 없이, 둘의 사이나 상황을 설명하는 지문도 없이, 오로지 선과 면만으로 읽는 이들을 뭉클함 속으로 던져 넣은 이 책의 매력을 다시금 느껴보시기 바란다.</description>
+				<isbn>K962939592</isbn>
+				<isbn13>9791130651309</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33584/88/coversum/k962939592_1.jpg</cover>
+				<categoryId>36192</categoryId>
+				<categoryName>국내도서&gt;만화&gt;그래픽노블</categoryName>
+				<publisher>놀</publisher>
+				<salesPoint>19780</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="337054427">
+			    <title>패밀리 레스토랑 가자. 上</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337054427&amp;partner=openAPI&amp;start=api</link>
+				<author>와야마 야마 (지은이), 현승희 (옮긴이)</author>
+				<pubDate>2024-04-01</pubDate> 
+				<description>2년 전 와야마 야마 신드롬을 일으킨 『가라오케 가자!』. 끔찍한 벌칙이 걸린 가라오케 대회를 위해 의기투합했던 야쿠자 쿄지와 독설 노래 선생 사토미의 뒷이야기를 궁금해하고, 오매불망 기다려왔던 독자들에게 새로운 이야기가 도착했다.</description>
+				<isbn>8954698727</isbn>
+				<isbn13>9788954698726</isbn13>
+				<priceSales>7650</priceSales>
+				<priceStandard>8500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>420</mileage>
+				<cover>https://image.aladin.co.kr/product/33705/44/coversum/8954698727_1.jpg</cover>
+				<categoryId>6130</categoryId>
+				<categoryName>국내도서&gt;만화&gt;순정만화&gt;그 남자들의 사랑</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>27934</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 4주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336510844">
+			    <title>알사탕 제조법 - 미니북(112*155mm)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336510844&amp;partner=openAPI&amp;start=api</link>
+				<author>백희나 (지은이)</author>
+				<pubDate>2024-03-21</pubDate> 
+				<description>꽃피는 봄날, 백희나의 신작 그림책이 나왔다. “나도 마법의 알사탕 먹고 싶다…”, “동동이의 알사탕은 어떻게 만들었을까?” 《알사탕》을 읽은 독자라면 한 번쯤 생각해 보았을 것이다. 이런 간절한 바람이 작가에게 영감이 되어, 독자에게 마법처럼, 선물처럼 돌아왔다.</description>
+				<isbn>K092939512</isbn>
+				<isbn13>9791198610607</isbn13>
+				<priceSales>9000</priceSales>
+				<priceStandard>10000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>500</mileage>
+				<cover>https://image.aladin.co.kr/product/33651/8/coversum/k092939512_2.jpg</cover>
+				<categoryId>35134</categoryId>
+				<categoryName>국내도서&gt;유아&gt;그림책&gt;나라별 그림책&gt;한국 그림책</categoryName>
+				<publisher>Storybowl(스토리보울)</publisher>
+				<salesPoint>41411</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>3</bestRank><seriesInfo><seriesId>1175682</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1175682&amp;partner=openAPI</seriesLink><seriesName>백희나 그림책 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336268952">
+			    <title>일류의 조건</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336268952&amp;partner=openAPI&amp;start=api</link>
+				<author>사이토 다카시 (지은이), 정현 (옮긴이)</author>
+				<pubDate>2024-03-20</pubDate> 
+				<description>《일류의 조건》이 국내 첫 출간 후 18년 만에 필름출판사에서 복간되었다. 이 책은 한 분야에 있어 통달한 전문가, 즉 ‘일류’가 되기 위해서는 근본적인 조건 세 가지인 ‘훔치는 힘’, ‘요약하는 힘’, ‘추진하는 힘’을 갖추어야 함을 전하는 실용적인 자기계발서다.</description>
+				<isbn>K662939214</isbn>
+				<isbn13>9791193262122</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33626/89/coversum/k662939214_1.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>필름(Feelm)</publisher>
+				<salesPoint>62118</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="243943792">
+			    <title>삼체 1~3 세트 - 전3권</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243943792&amp;partner=openAPI&amp;start=api</link>
+				<author>류츠신 (지은이), 이현아, 허유영 (옮긴이)</author>
+				<pubDate>2020-07-06</pubDate> 
+				<description>아시아 최초로 휴고상을 수상하며 SF 거장으로 등극한 류츠신의 『삼체』의 개정 양장본 세트. 『1부―삼체문제』 『2부―암흑의 숲』 『3부―사신의 영생』으로 이어지는 ‘지구의 과거’ 3부작은 무수한 위험이 숨어 있는 ‘암흑의 숲’과 같은 우주에서 인류가 마주하게 될 운명을 대담한 상상력으로 그려냈다.</description>
+				<isbn>8954442684</isbn>
+				<isbn13>9788954442688</isbn13>
+				<priceSales>60300</priceSales>
+				<priceStandard>67000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>3350</mileage>
+				<cover>https://image.aladin.co.kr/product/24394/37/coversum/s302934110_1.jpg</cover>
+				<categoryId>89481</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;과학소설(SF)&gt;외국 과학소설</categoryName>
+				<publisher>자음과모음</publisher>
+				<salesPoint>37619</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336848162">
+			    <title>만질 수 있는 생각</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336848162&amp;partner=openAPI&amp;start=api</link>
+				<author>이수지 (지은이)</author>
+				<pubDate>2024-03-15</pubDate> 
+				<description>한국인 최초로 세계적 최고 권위를 자랑하는 아동문학상인 한스 크리스티안 안데르센상(2022)을 수상한 그림책 작가 이수지의 에세이 『만질 수 있는 생각』이 ㈜비룡소에서 출간되었다. 회화 전공자에서 아트 북을 공부한 학생, 그리고 그림책 세계에 빠져 세계적인 그림책 작가가 되기까지. 치열하고 촘촘한 창작 과정이 고스란히 담겼다.</description>
+				<isbn>8949101114</isbn>
+				<isbn13>9788949101118</isbn13>
+				<priceSales>22500</priceSales>
+				<priceStandard>25000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>절판</stockStatus>
+				<mileage>1250</mileage>
+				<cover>https://image.aladin.co.kr/product/33684/81/coversum/8949101114_1.jpg</cover>
+				<categoryId>51371</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;한국에세이</categoryName>
+				<publisher>비룡소</publisher>
+				<salesPoint>5225</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336896551">
+			    <title>열혈강호 90</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336896551&amp;partner=openAPI&amp;start=api</link>
+				<author>전극진 (지은이), 양재현 (그림)</author>
+				<pubDate>2024-03-27</pubDate> 
+				<description></description>
+				<isbn>K572939937</isbn>
+				<isbn13>9791172033491</isbn13>
+				<priceSales>4950</priceSales>
+				<priceStandard>5500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>270</mileage>
+				<cover>https://image.aladin.co.kr/product/33689/65/coversum/k572939937_1.jpg</cover>
+				<categoryId>2558</categoryId>
+				<categoryName>국내도서&gt;만화&gt;소년만화&gt;무협</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>10191</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="335627754">
+			    <title>나를 소모하지 않는 현명한 태도에 관하여</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335627754&amp;partner=openAPI&amp;start=api</link>
+				<author>마티아스 뇔케 (지은이), 이미옥 (옮긴이)</author>
+				<pubDate>2024-03-10</pubDate> 
+				<description>모든 것이 과하게 요구되고, 요란하게 소비되는 시대에 ‘더 현명한 삶의 방식’은 무엇인지를 통찰한 책이다. 독일의 언론인이자 베스트셀러 작가이며 문학과 커뮤니케이션 과학, 심리학 등을 두루 공부한 마티아스 뇔케 박사는 특유의 재치와 명쾌함이 돋이는 글쓰기로 ‘보여주기 위해 극대화하는 삶이 아닌 조용히 나를 지키는 삶’으로 독자들을 안내한다.</description>
+				<isbn>K882939888</isbn>
+				<isbn13>9791198682505</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33562/77/coversum/k882939888_1.jpg</cover>
+				<categoryId>2952</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;인간관계&gt;인간관계</categoryName>
+				<publisher>퍼스트펭귄</publisher>
+				<salesPoint>74974</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 12주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336001556">
+			    <title>찌그러져도 동그라미입니다 - 김창완 에세이</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336001556&amp;partner=openAPI&amp;start=api</link>
+				<author>김창완 (지은이)</author>
+				<pubDate>2024-03-28</pubDate> 
+				<description>한국 대중문화에 가장 독보적인 자취를 남긴 뮤지션 김창완의 에세이가 웅진지식하우스에서 출간된다. 김창완이 라디오 청취자들에게 답한 편지와 오프닝을 엮었다. 손으로 그린 47개의 동그라미 중 두어 개만 그럴듯한 것처럼, 회사생활도 47일 중 이틀이 동그라면 동그란 것이라고 위로한 편지는 SNS와 블로그에 오랫동안 화제가 되었다.</description>
+				<isbn>890128068X</isbn>
+				<isbn13>9788901280684</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33600/15/coversum/890128068x_2.jpg</cover>
+				<categoryId>52905</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;명사에세이&gt;방송연예인에세이</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>46053</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="334061481">
+			    <title>불변의 법칙 - 절대 변하지 않는 것들에 대한 23가지 이야기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334061481&amp;partner=openAPI&amp;start=api</link>
+				<author>모건 하우절 (지은이), 이수경 (옮긴이)</author>
+				<pubDate>2024-02-28</pubDate> 
+				<description>《돈의 심리학》의 저자 모건 하우절이 3년 만에 세상에 내놓은 신작.‘절대 변하지 않는 것들에 대한 23가지 이야기’를 전한다. 이번 책은 돈과 투자 영역은 물론이고, 인간의 본성과 세상의 이치에 관한 이야기를 두루 다루어 한층 더 다층적이고 복합적인 메시지를 담아냈다는 평가를 받는다.</description>
+				<isbn>K272938139</isbn>
+				<isbn13>9791198517425</isbn13>
+				<priceSales>22500</priceSales>
+				<priceStandard>25000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1250</mileage>
+				<cover>https://image.aladin.co.kr/product/33406/14/coversum/k272938139_2.jpg</cover>
+				<categoryId>3065</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;경제학/경제일반&gt;경제이야기</categoryName>
+				<publisher>서삼독</publisher>
+				<salesPoint>114575</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

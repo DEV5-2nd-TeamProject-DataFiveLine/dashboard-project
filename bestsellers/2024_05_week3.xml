@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=5&amp;Week=3&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:41 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=5;Week=3</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="339735213">
+			    <title>나의 히어로 아카데미아 40 (트리플 특장판) - (초판한정) ‘아머드 올마이트’ 일러스트 카드 + (선착순 한정) 아크릴 일러스트 보드 + 캐릭터 북마크</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339735213&amp;partner=openAPI&amp;start=api</link>
+				<author>호리코시 코헤이 (지은이)</author>
+				<pubDate>2024-05-31</pubDate> 
+				<description>내겐 밀리오 같은 용기나, 하도 같은 활약은 할 수 없을지도 몰라. 그렇다 해도 자신을 믿고 동료들과 함께 싸우자! 일어서라! 힘을 잃고도 여전히 인지를 초월한 AFO을 억누르고 있는, 줄곧 동경해온 올마이트의 저 커다란 뒷모습에 지지 않도록!</description>
+				<isbn>K602930443</isbn>
+				<isbn13></isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/33973/52/coversum/k602930443_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>서울미디어코믹스(서울문화사)</publisher>
+				<salesPoint>19940</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="337860151">
+			    <title>감으로 읽고 각으로 쓴다 - 활자중독자 김미옥의 읽기, 쓰기의 감각</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337860151&amp;partner=openAPI&amp;start=api</link>
+				<author>김미옥 (지은이)</author>
+				<pubDate>2024-05-10</pubDate> 
+				<description>바쁜 일상을 살아가며 SNS 텍스트만을 간신히 새로고침하던 유저들에게는 최고의 독서 자극제, 불황에 허덕이던 출판사들에게는 혜성처럼 나타난 도서 홍보 대사, 서고에서 잠자던 양서들에게는 한 줄기 빛과 희망으로 통하는 저자 김미옥. 그녀는 자신을 ‘활자중독자’라고 소개한다.</description>
+				<isbn>K132930130</isbn>
+				<isbn13>9791192964942</isbn13>
+				<priceSales>16650</priceSales>
+				<priceStandard>18500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>920</mileage>
+				<cover>https://image.aladin.co.kr/product/33786/1/coversum/k132930130_2.jpg</cover>
+				<categoryId>51537</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;책읽기/글쓰기&gt;책읽기</categoryName>
+				<publisher>파람북</publisher>
+				<salesPoint>13177</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338986832">
+			    <title>하이큐!! 매거진 2024 MAY - 커버 스티커 2종 + 하이큐 매거진 커버 일러스트 양면 포스터 1종</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338986832&amp;partner=openAPI&amp;start=api</link>
+				<author>후루다테 하루이치 (지은이)</author>
+				<pubDate>2024-05-14</pubDate> 
+				<description>후루다테 하루이치의 새로 그린 일러스트를 포함한 다양한 구성으로 극장판《하이큐!! 쓰레기장의 결전》을 더욱 즐길 수 있는 한 권이다.</description>
+				<isbn>K212930824</isbn>
+				<isbn13>9791172450021</isbn13>
+				<priceSales>18000</priceSales>
+				<priceStandard>20000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1000</mileage>
+				<cover>https://image.aladin.co.kr/product/33898/68/coversum/k212930824_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>18568</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="337994954">
+			    <title>빨모쌤의 라이브 영어회화 (특별 부록 한정판) - 맥락과 뉘앙스가 살아나는 진짜 영어 말하기 수업</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337994954&amp;partner=openAPI&amp;start=api</link>
+				<author>빨간모자쌤 신용하 (지은이)</author>
+				<pubDate>2024-04-15</pubDate> 
+				<description>구독자 150만 명의 ‘인생 영어 선생님’으로 꼽히는 ‘빨모쌤(빨간모자쌤)’의 첫 책 『빨모쌤의 라이브 영어회화』가 드디어 출간되었다. 바람직한 영어 공부 마인드부터 빨모쌤이 엄선한 핵심 영어 표현 75개를 한 권에 총망라했다.</description>
+				<isbn>8901281791</isbn>
+				<isbn13>9788901281797</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/33799/49/coversum/s122932101_1.jpg</cover>
+				<categoryId>49849</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;영어회화&gt;생활영어</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>80924</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="335627754">
+			    <title>나를 소모하지 않는 현명한 태도에 관하여</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335627754&amp;partner=openAPI&amp;start=api</link>
+				<author>마티아스 뇔케 (지은이), 이미옥 (옮긴이)</author>
+				<pubDate>2024-03-10</pubDate> 
+				<description>모든 것이 과하게 요구되고, 요란하게 소비되는 시대에 ‘더 현명한 삶의 방식’은 무엇인지를 통찰한 책이다. 독일의 언론인이자 베스트셀러 작가이며 문학과 커뮤니케이션 과학, 심리학 등을 두루 공부한 마티아스 뇔케 박사는 특유의 재치와 명쾌함이 돋이는 글쓰기로 ‘보여주기 위해 극대화하는 삶이 아닌 조용히 나를 지키는 삶’으로 독자들을 안내한다.</description>
+				<isbn>K882939888</isbn>
+				<isbn13>9791198682505</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33562/77/coversum/k882939888_1.jpg</cover>
+				<categoryId>2952</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;인간관계&gt;인간관계</categoryName>
+				<publisher>퍼스트펭귄</publisher>
+				<salesPoint>74974</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 12주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339220414">
+			    <title>변방에서 중심으로 - 문재인 회고록 외교안보 편</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339220414&amp;partner=openAPI&amp;start=api</link>
+				<author>문재인 (지은이), 최종건 (대담)</author>
+				<pubDate>2024-05-18</pubDate> 
+				<description>퇴임 2주년 첫 회고록. 위기에서 희망으로, 대립에서 번영으로, 변방에서 중심으로 문재인 대통령이 직접 밝히는 긴박하고 숨 가빴던 5년의 기록.</description>
+				<isbn>8934935758</isbn>
+				<isbn13>9788934935759</isbn13>
+				<priceSales>29700</priceSales>
+				<priceStandard>33000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1650</mileage>
+				<cover>https://image.aladin.co.kr/product/33922/4/coversum/8934935758_1.jpg</cover>
+				<categoryId>51220</categoryId>
+				<categoryName>국내도서&gt;사회과학&gt;정치학/외교학/행정학&gt;정치인</categoryName>
+				<publisher>김영사</publisher>
+				<salesPoint>12441</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339154720">
+			    <title>숙론 - 어떻게 마주 앉아 대화할 것인가</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339154720&amp;partner=openAPI&amp;start=api</link>
+				<author>최재천 (지은이)</author>
+				<pubDate>2024-05-10</pubDate> 
+				<description>우리 시대의 지성인 최재천 교수가 9년간 집필해 마침내 완성한 역작 《숙론》을 출간한다. 갈등과 분열을 거듭하는 시대에 우리는 어떻게 손잡을 수 있을까? 최재천 교수가 찾은 해법은 ‘숙론(熟論, Discourse)’이다.</description>
+				<isbn>8934950196</isbn>
+				<isbn13>9788934950196</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/33915/47/coversum/8934950196_2.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>김영사</publisher>
+				<salesPoint>23179</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 100위 6주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339487481">
+			    <title>꿈꾸지 않아도 빤짝이는 중 - 놀면서 일하는 두 남자 삐까뚱씨, 내일의 목표보단 오늘의 행복에 집중하는 인생로그</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339487481&amp;partner=openAPI&amp;start=api</link>
+				<author>브로디, 노아 (지은이)</author>
+				<pubDate>2024-05-16</pubDate> 
+				<description>삐까뚱씨라는 이름으로 유튜브를 하고 있는 브로디와 노아. 이들의 낭만 가득한 삶은 물론이거니와 어디에서도 밝히지 않았던 진솔하면서도 내밀한 이야기까지 담아냈다. 아울러 국내 핫한 브랜드들의 러브콜을 받고 있는 실력파들답게 직접 개발하고 그린 일러스트까지 실었다.</description>
+				<isbn>K392930236</isbn>
+				<isbn13>9791168418219</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/33948/74/coversum/k392930236_1.jpg</cover>
+				<categoryId>51376</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;사진/그림 에세이</categoryName>
+				<publisher>북폴리오</publisher>
+				<salesPoint>4820</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>에세이 100위 4주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339157125">
+			    <title>말하지 않으면 인생은 바뀌지 않는다 - 세계 최고의 커뮤니케이션 코치, 샘 혼의 더 이상 물러서지 않는 단호한 대화법</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339157125&amp;partner=openAPI&amp;start=api</link>
+				<author>샘 혼 (지은이), 서은경 (옮긴이)</author>
+				<pubDate>2024-05-16</pubDate> 
+				<description>27년간 전 세계 수십 만 명의 인생을 바꾼 최고의 커뮤니케이션 코치 샘 혼이 알려 주는 단호한 대화의 기술. 나도 모르게 눈치 보거나 뒤로 물러나지 않고 단호하게 할 말은 하되, 상대방도 나도 기분 좋게 대화할 수 있는 현실적이고 실용적인 대화법을 집대성했다.</description>
+				<isbn>K982930028</isbn>
+				<isbn13>9791193904046</isbn13>
+				<priceSales>18000</priceSales>
+				<priceStandard>20000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1000</mileage>
+				<cover>https://image.aladin.co.kr/product/33915/71/coversum/k982930028_1.jpg</cover>
+				<categoryId>70227</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;협상/설득/화술&gt;화술</categoryName>
+				<publisher>서삼독</publisher>
+				<salesPoint>18107</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 6주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336489042">
+			    <title>하루 한 장 나의 어휘력을 위한 필사 노트 - 할 말은 많지만 쓸 만한 말이 없는 어른들을 위한 숨은 어휘력 찾기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336489042&amp;partner=openAPI&amp;start=api</link>
+				<author>유선경 (지은이)</author>
+				<pubDate>2024-03-28</pubDate> 
+				<description>《어른의 어휘력》, 《감정 어휘》 어휘력 도서 최다 판매 유선경 작가의 첫 필사책. “오늘부터 하루 한 장, 나의 어휘력을 위한 필사를 시작합니다”</description>
+				<isbn>K172939414</isbn>
+				<isbn13>9791171711673</isbn13>
+				<priceSales>21420</priceSales>
+				<priceStandard>23800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>1190</mileage>
+				<cover>https://image.aladin.co.kr/product/33648/90/coversum/k172939414_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>위즈덤하우스</publisher>
+				<salesPoint>84304</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 11주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

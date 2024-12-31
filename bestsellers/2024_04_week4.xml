@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=4&amp;Week=4&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:41 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=4;Week=4</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="337994954">
+			    <title>빨모쌤의 라이브 영어회화 (특별 부록 한정판) - 맥락과 뉘앙스가 살아나는 진짜 영어 말하기 수업</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337994954&amp;partner=openAPI&amp;start=api</link>
+				<author>빨간모자쌤 신용하 (지은이)</author>
+				<pubDate>2024-04-15</pubDate> 
+				<description>구독자 150만 명의 ‘인생 영어 선생님’으로 꼽히는 ‘빨모쌤(빨간모자쌤)’의 첫 책 『빨모쌤의 라이브 영어회화』가 드디어 출간되었다. 바람직한 영어 공부 마인드부터 빨모쌤이 엄선한 핵심 영어 표현 75개를 한 권에 총망라했다.</description>
+				<isbn>8901281791</isbn>
+				<isbn13>9788901281797</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/33799/49/coversum/s122932101_1.jpg</cover>
+				<categoryId>49849</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;영어회화&gt;생활영어</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>80924</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338119192">
+			    <title>나는 읽고 쓰고 버린다 - 손웅정의 말</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338119192&amp;partner=openAPI&amp;start=api</link>
+				<author>손웅정 (지은이)</author>
+				<pubDate>2024-04-20</pubDate> 
+				<description>대한민국의 전 축구선수, 현 축구 지도자 손웅정 감독의 『나는 읽고 쓰고 버린다』가 출간되었다. 손웅정 감독이 2010년부터 작성해온 독서 노트를 바탕으로 2023년 3월부터 2024년 3월까지 김민정 시인과 진행한 수차례의 인터뷰를 책으로 묶었다.</description>
+				<isbn>K842930585</isbn>
+				<isbn13>9791191859836</isbn13>
+				<priceSales>15300</priceSales>
+				<priceStandard>17000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>850</mileage>
+				<cover>https://image.aladin.co.kr/product/33811/91/coversum/k842930585_2.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>난다</publisher>
+				<salesPoint>35385</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338271919">
+			    <title>지박소년 하나코 군 21</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338271919&amp;partner=openAPI&amp;start=api</link>
+				<author>아이다이로 (지은이), 장혜영 (옮긴이)</author>
+				<pubDate>2024-04-30</pubDate> 
+				<description>계절은 가을. 카모메 학원에서는 천추제라고 불리는 학원 축제가 개최된다.네네와 친구들이 준비에 쫓기는 가운데, 7대 불가사의 중 1번째인 시계지기의 신물을 노리는 자들이 있었다. 즐거워야 할 학원제가 황당무계한 사태로 발전하고 마는데….</description>
+				<isbn>K842930893</isbn>
+				<isbn13>9791136784605</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/33827/19/coversum/k842930893_1.jpg</cover>
+				<categoryId>4134</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;드라마틱 판타지</categoryName>
+				<publisher>서울미디어코믹스(서울문화사)</publisher>
+				<salesPoint>20304</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 4주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338184397">
+			    <title>던전밥 14 - S코믹스, 완결</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338184397&amp;partner=openAPI&amp;start=api</link>
+				<author>쿠이 료코 (지은이), 김민재 (옮긴이)</author>
+				<pubDate>2024-05-03</pubDate> 
+				<description>섬뜩한 저주를 남기고 소멸하는 악마. 미궁은 뒤틀린 욕망과 함께 산산이 무너지고, 살아남은 라이오스 일행은 최후의 모험을 준비한다. 과연, 파린의 부활은 성공할 것인가?!</description>
+				<isbn>K442930687</isbn>
+				<isbn13>9791138482769</isbn13>
+				<priceSales>6300</priceSales>
+				<priceStandard>7000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>350</mileage>
+				<cover>https://image.aladin.co.kr/product/33818/43/coversum/k442930687_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>㈜소미미디어</publisher>
+				<salesPoint>23626</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>4</bestRank><seriesInfo><seriesId>957703</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=957703&amp;partner=openAPI</seriesLink><seriesName>S코믹스 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336268952">
+			    <title>일류의 조건</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336268952&amp;partner=openAPI&amp;start=api</link>
+				<author>사이토 다카시 (지은이), 정현 (옮긴이)</author>
+				<pubDate>2024-03-20</pubDate> 
+				<description>《일류의 조건》이 국내 첫 출간 후 18년 만에 필름출판사에서 복간되었다. 이 책은 한 분야에 있어 통달한 전문가, 즉 ‘일류’가 되기 위해서는 근본적인 조건 세 가지인 ‘훔치는 힘’, ‘요약하는 힘’, ‘추진하는 힘’을 갖추어야 함을 전하는 실용적인 자기계발서다.</description>
+				<isbn>K662939214</isbn>
+				<isbn13>9791193262122</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33626/89/coversum/k662939214_1.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>필름(Feelm)</publisher>
+				<salesPoint>62118</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="337990888">
+			    <title>사카모토 데이즈 15 - 세기의 킬러전</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337990888&amp;partner=openAPI&amp;start=api</link>
+				<author>스즈키 유우토 (지은이)</author>
+				<pubDate>2024-04-30</pubDate> 
+				<description>괴력 효우 &amp; 저격수 헤이스케 vs 자력술사 쿠마노미. 제각기 다른 전투 방식을 보여주는 세 사람이 펼치는 근접, 원거리가 뒤섞인 격전의 향방은?</description>
+				<isbn>K192930579</isbn>
+				<isbn13>9791172037376</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>구판절판</stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/33799/8/coversum/k192930579_1.jpg</cover>
+				<categoryId>2552</categoryId>
+				<categoryName>국내도서&gt;만화&gt;코믹/명랑만화</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>16262</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="335627754">
+			    <title>나를 소모하지 않는 현명한 태도에 관하여</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335627754&amp;partner=openAPI&amp;start=api</link>
+				<author>마티아스 뇔케 (지은이), 이미옥 (옮긴이)</author>
+				<pubDate>2024-03-10</pubDate> 
+				<description>모든 것이 과하게 요구되고, 요란하게 소비되는 시대에 ‘더 현명한 삶의 방식’은 무엇인지를 통찰한 책이다. 독일의 언론인이자 베스트셀러 작가이며 문학과 커뮤니케이션 과학, 심리학 등을 두루 공부한 마티아스 뇔케 박사는 특유의 재치와 명쾌함이 돋이는 글쓰기로 ‘보여주기 위해 극대화하는 삶이 아닌 조용히 나를 지키는 삶’으로 독자들을 안내한다.</description>
+				<isbn>K882939888</isbn>
+				<isbn13>9791198682505</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33562/77/coversum/k882939888_1.jpg</cover>
+				<categoryId>2952</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;인간관계&gt;인간관계</categoryName>
+				<publisher>퍼스트펭귄</publisher>
+				<salesPoint>74974</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 12주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338151239">
+			    <title>흔한남매 16</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338151239&amp;partner=openAPI&amp;start=api</link>
+				<author>흔한남매 (지은이), 백난도 (글), 유난희 (그림), 흔한컴퍼니 (감수)</author>
+				<pubDate>2024-04-25</pubDate> 
+				<description>평범한 일상에 웃음을 불어넣는 흔한남매의 통통 튀는 이야기. 에이미의 화 참기 도전, 뮤지컬 전쟁을 펼치는 흔한남매, 아이돌 학교에서 살아남는 방법, 너튜버가 된 엄마, 데굴데굴 왕풍선 체험, 공포의 노래방 안내 방송 등 개성이 통통 튀는 흔한남매의 일상을 들려준다.</description>
+				<isbn>K832930683</isbn>
+				<isbn13>9791168418011</isbn13>
+				<priceSales>13050</priceSales>
+				<priceStandard>14500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>720</mileage>
+				<cover>https://image.aladin.co.kr/product/33815/12/coversum/k832930683_2.jpg</cover>
+				<categoryId>49995</categoryId>
+				<categoryName>국내도서&gt;어린이&gt;TV/만화/영화&gt;만화 일반</categoryName>
+				<publisher>미래엔아이세움</publisher>
+				<salesPoint>33070</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>8</bestRank><seriesInfo><seriesId>685263</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=685263&amp;partner=openAPI</seriesLink><seriesName>흔한남매 16</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="337111317">
+			    <title>2024 제15회 젊은작가상 수상작품집</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337111317&amp;partner=openAPI&amp;start=api</link>
+				<author>김멜라, 공현진, 김기태, 김남숙, 김지연, 성해나, 전지영 (지은이)</author>
+				<pubDate>2024-03-31</pubDate> 
+				<description>2010년 제정된 이래 해를 거듭하며 독자들의 뜨거운 사랑을 받고 있는 젊은작가상이 어느덧 15회를 맞았다. 저만의 문제의식과 치열한 언어로 문학의 지평을 넓혀온 데뷔 십 년 이하 작가들의 눈부신 발돋움을 조명하고자 마련된 젊은작가상은 지난해까지 모두 62명에 이르는 새로운 얼굴을 소개하며 한국문학에 생기를 더했다.</description>
+				<isbn>8954638740</isbn>
+				<isbn13>9788954638746</isbn13>
+				<priceSales>6930</priceSales>
+				<priceStandard>7700</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>380</mileage>
+				<cover>https://image.aladin.co.kr/product/33711/13/coversum/8954638740_2.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>41203</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336489042">
+			    <title>하루 한 장 나의 어휘력을 위한 필사 노트 - 할 말은 많지만 쓸 만한 말이 없는 어른들을 위한 숨은 어휘력 찾기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336489042&amp;partner=openAPI&amp;start=api</link>
+				<author>유선경 (지은이)</author>
+				<pubDate>2024-03-28</pubDate> 
+				<description>《어른의 어휘력》, 《감정 어휘》 어휘력 도서 최다 판매 유선경 작가의 첫 필사책. “오늘부터 하루 한 장, 나의 어휘력을 위한 필사를 시작합니다”</description>
+				<isbn>K172939414</isbn>
+				<isbn13>9791171711673</isbn13>
+				<priceSales>21420</priceSales>
+				<priceStandard>23800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>1190</mileage>
+				<cover>https://image.aladin.co.kr/product/33648/90/coversum/k172939414_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>위즈덤하우스</publisher>
+				<salesPoint>84304</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 11주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

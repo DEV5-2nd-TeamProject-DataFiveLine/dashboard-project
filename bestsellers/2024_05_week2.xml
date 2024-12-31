@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=5&amp;Week=2&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:41 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=5;Week=2</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="337994954">
+			    <title>빨모쌤의 라이브 영어회화 (특별 부록 한정판) - 맥락과 뉘앙스가 살아나는 진짜 영어 말하기 수업</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337994954&amp;partner=openAPI&amp;start=api</link>
+				<author>빨간모자쌤 신용하 (지은이)</author>
+				<pubDate>2024-04-15</pubDate> 
+				<description>구독자 150만 명의 ‘인생 영어 선생님’으로 꼽히는 ‘빨모쌤(빨간모자쌤)’의 첫 책 『빨모쌤의 라이브 영어회화』가 드디어 출간되었다. 바람직한 영어 공부 마인드부터 빨모쌤이 엄선한 핵심 영어 표현 75개를 한 권에 총망라했다.</description>
+				<isbn>8901281791</isbn>
+				<isbn13>9788901281797</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/33799/49/coversum/s122932101_1.jpg</cover>
+				<categoryId>49849</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;영어회화&gt;생활영어</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>80924</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="335627754">
+			    <title>나를 소모하지 않는 현명한 태도에 관하여</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335627754&amp;partner=openAPI&amp;start=api</link>
+				<author>마티아스 뇔케 (지은이), 이미옥 (옮긴이)</author>
+				<pubDate>2024-03-10</pubDate> 
+				<description>모든 것이 과하게 요구되고, 요란하게 소비되는 시대에 ‘더 현명한 삶의 방식’은 무엇인지를 통찰한 책이다. 독일의 언론인이자 베스트셀러 작가이며 문학과 커뮤니케이션 과학, 심리학 등을 두루 공부한 마티아스 뇔케 박사는 특유의 재치와 명쾌함이 돋이는 글쓰기로 ‘보여주기 위해 극대화하는 삶이 아닌 조용히 나를 지키는 삶’으로 독자들을 안내한다.</description>
+				<isbn>K882939888</isbn>
+				<isbn13>9791198682505</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33562/77/coversum/k882939888_1.jpg</cover>
+				<categoryId>2952</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;인간관계&gt;인간관계</categoryName>
+				<publisher>퍼스트펭귄</publisher>
+				<salesPoint>74974</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 12주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336868391">
+			    <title>삶이 흔들릴 때 뇌과학을 읽습니다 - 우리의 마음과 행동을 결정하는 두뇌 법칙 25</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336868391&amp;partner=openAPI&amp;start=api</link>
+				<author>이케가야 유지 (지은이), 김준기 (옮긴이)</author>
+				<pubDate>2024-03-27</pubDate> 
+				<description>‘뇌과학’이라고 하면 어떤 느낌이 드는가? 비밀에 둘러싸인 뇌에 대한 궁금증이 생기기도 하지만 동시에 어렵고 거부감이 들기도 할 것이다. 그런데 이 뇌 이야기로 일본을 비롯한 아시아 전역에 뇌과학 열풍을 일으킨 사람이 있다. 바로 전세계가 주목하는 젊은 뇌과학자이자 도쿄대 교수인 이케가야 유지.</description>
+				<isbn>K422939932</isbn>
+				<isbn13>9791198704504</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/33686/83/coversum/k422939932_2.jpg</cover>
+				<categoryId>51514</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;심리학/정신분석학&gt;교양 심리학</categoryName>
+				<publisher>힉스</publisher>
+				<salesPoint>20387</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 100위 7주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338119192">
+			    <title>나는 읽고 쓰고 버린다 - 손웅정의 말</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338119192&amp;partner=openAPI&amp;start=api</link>
+				<author>손웅정 (지은이)</author>
+				<pubDate>2024-04-20</pubDate> 
+				<description>대한민국의 전 축구선수, 현 축구 지도자 손웅정 감독의 『나는 읽고 쓰고 버린다』가 출간되었다. 손웅정 감독이 2010년부터 작성해온 독서 노트를 바탕으로 2023년 3월부터 2024년 3월까지 김민정 시인과 진행한 수차례의 인터뷰를 책으로 묶었다.</description>
+				<isbn>K842930585</isbn>
+				<isbn13>9791191859836</isbn13>
+				<priceSales>15300</priceSales>
+				<priceStandard>17000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>850</mileage>
+				<cover>https://image.aladin.co.kr/product/33811/91/coversum/k842930585_2.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>난다</publisher>
+				<salesPoint>35385</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339277692">
+			    <title>체인소 맨 16</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339277692&amp;partner=openAPI&amp;start=api</link>
+				<author>후지모토 타츠키 (지은이)</author>
+				<pubDate>2024-05-09</pubDate> 
+				<description></description>
+				<isbn>K702930036</isbn>
+				<isbn13>9791141129415</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/33927/76/coversum/k702930036_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>학산문화사(만화)</publisher>
+				<salesPoint>14329</salesPoint>
+                <adult>true</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 100위 4주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336489042">
+			    <title>하루 한 장 나의 어휘력을 위한 필사 노트 - 할 말은 많지만 쓸 만한 말이 없는 어른들을 위한 숨은 어휘력 찾기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336489042&amp;partner=openAPI&amp;start=api</link>
+				<author>유선경 (지은이)</author>
+				<pubDate>2024-03-28</pubDate> 
+				<description>《어른의 어휘력》, 《감정 어휘》 어휘력 도서 최다 판매 유선경 작가의 첫 필사책. “오늘부터 하루 한 장, 나의 어휘력을 위한 필사를 시작합니다”</description>
+				<isbn>K172939414</isbn>
+				<isbn13>9791171711673</isbn13>
+				<priceSales>21420</priceSales>
+				<priceStandard>23800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>1190</mileage>
+				<cover>https://image.aladin.co.kr/product/33648/90/coversum/k172939414_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>위즈덤하우스</publisher>
+				<salesPoint>84304</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 11주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="309295168">
+			    <title>세이노의 가르침 (화이트 에디션) - 피보다 진하게 살아라</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309295168&amp;partner=openAPI&amp;start=api</link>
+				<author>세이노(SayNo) (지은이)</author>
+				<pubDate>2023-03-02</pubDate> 
+				<description>2000년부터 발표된 그의 주옥같은 글들. 독자들이 자발적으로 만든 제본서는 물론, 전자책과 앱까지 나왔던 《세이노의 가르침》이 드디어 전국 서점에서 독자들을 마주한다. 여러 판본을 모으고 저자의 확인을 거쳐 최근 생각을 추가로 수록하였다. 정식 출간본에만 추가로 수록된 글들은 목차와 본문에 별도 표시하였다.</description>
+				<isbn>K732831392</isbn>
+				<isbn13>9791168473690</isbn13>
+				<priceSales>6480</priceSales>
+				<priceStandard>7200</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>360</mileage>
+				<cover>https://image.aladin.co.kr/product/30929/51/coversum/s662930344_1.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>데이원</publisher>
+				<salesPoint>295330</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 1위 17주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339215933">
+			    <title>나 혼자만 레벨업 11 - 만화</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339215933&amp;partner=openAPI&amp;start=api</link>
+				<author>장성락(REDICE STUDIO) (지은이), 추공 (원작), 현군 (각색)</author>
+				<pubDate>2024-06-04</pubDate> 
+				<description>국가 권력급 헌터 살해 사건의 범인으로 지목된 용의자 S. 모든 정황이 용의자 S가 성진우의 아버지임을 가리키고, 진우는 모두를 적으로 돌리더라도 가족을 지키겠다 다짐한다. 한편, 고건희 협회장 앞에 나타난 정체를 알 수 없는 존재. 갑작스레 쏟아지는 공격에 고건희는 위험에 빠지게 되는데…!</description>
+				<isbn>K852930930</isbn>
+				<isbn13>9791193821206</isbn13>
+				<priceSales>14400</priceSales>
+				<priceStandard>16000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>800</mileage>
+				<cover>https://image.aladin.co.kr/product/33921/59/coversum/k852930930_1.jpg</cover>
+				<categoryId>4134</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;드라마틱 판타지</categoryName>
+				<publisher>디앤씨웹툰비즈</publisher>
+				<salesPoint>13915</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>만화 100위 12주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338151239">
+			    <title>흔한남매 16</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338151239&amp;partner=openAPI&amp;start=api</link>
+				<author>흔한남매 (지은이), 백난도 (글), 유난희 (그림), 흔한컴퍼니 (감수)</author>
+				<pubDate>2024-04-25</pubDate> 
+				<description>평범한 일상에 웃음을 불어넣는 흔한남매의 통통 튀는 이야기. 에이미의 화 참기 도전, 뮤지컬 전쟁을 펼치는 흔한남매, 아이돌 학교에서 살아남는 방법, 너튜버가 된 엄마, 데굴데굴 왕풍선 체험, 공포의 노래방 안내 방송 등 개성이 통통 튀는 흔한남매의 일상을 들려준다.</description>
+				<isbn>K832930683</isbn>
+				<isbn13>9791168418011</isbn13>
+				<priceSales>13050</priceSales>
+				<priceStandard>14500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>720</mileage>
+				<cover>https://image.aladin.co.kr/product/33815/12/coversum/k832930683_2.jpg</cover>
+				<categoryId>49995</categoryId>
+				<categoryName>국내도서&gt;어린이&gt;TV/만화/영화&gt;만화 일반</categoryName>
+				<publisher>미래엔아이세움</publisher>
+				<salesPoint>33070</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>9</bestRank><seriesInfo><seriesId>685263</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=685263&amp;partner=openAPI</seriesLink><seriesName>흔한남매 16</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="337989482">
+			    <title>나의 돈키호테</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337989482&amp;partner=openAPI&amp;start=api</link>
+				<author>김호연 (지은이)</author>
+				<pubDate>2024-04-25</pubDate> 
+				<description>150만 독자가 애독하며 수만 개의 입소문 리뷰를 탄생시킨 국민 힐링소설 『불편한 편의점』의 작가 김호연이 소설 『나의 돈키호테』로 돌아왔다. 이제는 사라진 옛날 동네 비디오 가게에서 시작되는 꿈과 모험의 여정을 담은 소설이다.</description>
+				<isbn>K852930477</isbn>
+				<isbn13>9791161571768</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/33798/94/coversum/k852930477_2.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>나무옆의자</publisher>
+				<salesPoint>34245</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 13주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

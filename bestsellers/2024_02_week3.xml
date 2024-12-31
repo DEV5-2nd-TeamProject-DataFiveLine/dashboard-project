@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=2&amp;Week=3&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:40 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=2;Week=3</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="329386807">
+			    <title>이처럼 사소한 것들</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329386807&amp;partner=openAPI&amp;start=api</link>
+				<author>클레어 키건 (지은이), 홍한별 (옮긴이)</author>
+				<pubDate>2023-11-27</pubDate> 
+				<description>2023년 4월 국내에 처음 소개된 『맡겨진 소녀』로 국내 문인들과 문학 독자들의 열렬한 환호를 받은 클레어 키건의 대표작. 자신이 속한 사회 공동체의 은밀한 공모를 발견하고 자칫 모든 걸 잃을 수 있는 선택 앞에서 고뇌하는 한 남자의 내면을 그린 작품이다.</description>
+				<isbn>K472936042</isbn>
+				<isbn13>9791130646381</isbn13>
+				<priceSales>12420</priceSales>
+				<priceStandard>13800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>690</mileage>
+				<cover>https://image.aladin.co.kr/product/32938/68/coversum/k472936042_2.jpg</cover>
+				<categoryId>52652</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;세계의 소설&gt;아일랜드소설</categoryName>
+				<publisher>다산책방</publisher>
+				<salesPoint>248054</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="332732565">
+			    <title>아이는 무엇으로 자라는가 - 세계적 가족 심리학자 버지니아 사티어의 15가지 양육 법칙</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332732565&amp;partner=openAPI&amp;start=api</link>
+				<author>버지니아 사티어 (지은이), 강유리 (옮긴이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>세계적 가족 심리학자, 가족치료의 1인자 버지니아 사티어의 역작이자 누적 부수 100만 부를 돌파한 책 『아이는 무엇으로 자라는가가 국내에서 출간되었다. 유수의 언론과 아동, 청소년 전문 교육자와 심리학자들이 극찬하는 이 책은 1988년에 첫 출간된 이후 전 세계 15개국에 번역 출간되었으며, 오랫동안 아마존 베스트셀러의 자리를 지켜온 전설적인 육아의 바이블로 통한다.</description>
+				<isbn>K302938773</isbn>
+				<isbn13>9791193506202</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/33273/25/coversum/k302938773_2.jpg</cover>
+				<categoryId>73196</categoryId>
+				<categoryName>국내도서&gt;좋은부모&gt;부모교육</categoryName>
+				<publisher>포레스트북스</publisher>
+				<salesPoint>52649</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 7주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="328923887">
+			    <title>나는 메트로폴리탄 미술관의 경비원입니다 - 경이로운 세계 속으로 숨어버린 한 남자의 이야기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328923887&amp;partner=openAPI&amp;start=api</link>
+				<author>패트릭 브링리 (지은이), 김희정, 조현주 (옮긴이)</author>
+				<pubDate>2023-11-24</pubDate> 
+				<description>뉴욕 메트로폴리탄 미술관에서 경비원으로 근무했던 패트릭 브링리의 독특하면서도 지적인 회고를 담은 에세이다. 가족의 죽음으로 고통 속에 웅크리고 있던 한 남자가 미술관에서 10년이라는 시간을 보내며 상실감을 극복하고 마침내 세상으로 나아갈 힘을 얻는 여정을 섬세하게 그려냈다.</description>
+				<isbn>K912934840</isbn>
+				<isbn13>9788901276533</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/32892/38/coversum/s402930162_1.jpg</cover>
+				<categoryId>51373</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;외국에세이</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>126870</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 5주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="333974874">
+			    <title>너를 위한 삼월</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333974874&amp;partner=openAPI&amp;start=api</link>
+				<author>박서함 (지은이)</author>
+				<pubDate>2024-03-03</pubDate> 
+				<description>어느덧 데뷔 8주년을 앞두고 있는 배우 박서함이 그의 소탈한 일상과 진솔한 생각을 책으로 엮은 포토 에세이가 출간됐다. 평소 자신과 주변의 일상, 여러 계절의 풍경을 렌즈에 담아 왔던 박서함은 《너를 위한 삼월》에서 자신의 지난 시간과 팬들을 향한 애정을 글과 사진으로 풀어냈다.</description>
+				<isbn>8934934158</isbn>
+				<isbn13>9788934934158</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/33397/48/coversum/8934934158_1.jpg</cover>
+				<categoryId>51376</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;사진/그림 에세이</categoryName>
+				<publisher>김영사</publisher>
+				<salesPoint>8505</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>에세이 10위 2주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

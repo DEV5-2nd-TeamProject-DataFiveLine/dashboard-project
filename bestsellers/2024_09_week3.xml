@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=9&amp;Week=3&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:42 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=9;Week=3</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="285132160">
+			    <title>언젠가 우리가 같은 별을 바라본다면</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285132160&amp;partner=openAPI&amp;start=api</link>
+				<author>차인표 (지은이), 제딧 (그림)</author>
+				<pubDate>2021-12-15</pubDate> 
+				<description>고국을 떠나 70년 만에 필리핀의 한 작은 섬에서 발견된 쑤니 할머니의 젊은 시절을 담은 이야기이다. 작가는 우리나라가 일본에 주권을 빼앗긴 채 가난하고 핍박받던 시절을 맨몸으로 버텨 낸 우리 어머니의 어머니, 아버지의 아버지들의 이야기를 남기고자 집필을 시작했다.</description>
+				<isbn>K882835835</isbn>
+				<isbn13>9791191061048</isbn13>
+				<priceSales>10800</priceSales>
+				<priceStandard>12000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>600</mileage>
+				<cover>https://image.aladin.co.kr/product/28513/21/coversum/k882835835_1.jpg</cover>
+				<categoryId>50759</categoryId>
+				<categoryName>국내도서&gt;청소년&gt;청소년 문학&gt;청소년 소설</categoryName>
+				<publisher>해결책</publisher>
+				<salesPoint>131252</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 1위 2주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="346341455">
+			    <title>트렌드 코리아 2025 - 2025 대한민국 소비트렌드 전망</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=346341455&amp;partner=openAPI&amp;start=api</link>
+				<author>김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 이준영, 이향은, 추예린, 전다현 (지은이)</author>
+				<pubDate>2024-09-25</pubDate> 
+				<description>역대급 무더위가 대한민국을 강타한 2024년 여름, 지구는 역사상 가장 뜨거운 날의 기록을 연달아 경신했다. 지금 우리는 ‘역대급’이라는 말 자체가 역대급으로 많이 쓰이는 시대를 살고 있다. 그만큼 우리 사회의 역동성이 크다는 뜻이기도 하다. 근 20년 동안 우리 사회의 추이와 소비 활동의 여러 모습을 추적, 관찰해온 트렌드 코리아 팀은 대한민국이 그 어느 때보다도 더 특유의 역동성과 역량을 바탕으로 전에 없는 다양성을 표출하는 모습을 목격하고 이를 책에 담고자 했다.</description>
+				<isbn>8959897221</isbn>
+				<isbn13>9788959897223</isbn13>
+				<priceSales>18000</priceSales>
+				<priceStandard>20000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1000</mileage>
+				<cover>https://image.aladin.co.kr/product/34634/14/coversum/8959897221_2.jpg</cover>
+				<categoryId>263</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;트렌드/미래전망&gt;트렌드/미래전망 일반</categoryName>
+				<publisher>미래의창</publisher>
+				<salesPoint>211040</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 2주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="344747677">
+			    <title>이중 하나는 거짓말</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=344747677&amp;partner=openAPI&amp;start=api</link>
+				<author>김애란 (지은이)</author>
+				<pubDate>2024-08-27</pubDate> 
+				<description>한국문학의 결정적 순간을 만들어온 젊은 거장 김애란의 장편소설. 몇 년 전 진행된 한 인터뷰에서 차기작에 대해 묻는 질문에 작가가 “빛과 거짓말 그리고 그림에 관한 이야기”라고 설명한 것 외에는 모든 것이 베일에 가려져 있던 바로 그 작품이 오랜 기다림 끝에 마침내 공개된다.</description>
+				<isbn>K292932634</isbn>
+				<isbn13>9791141601300</isbn13>
+				<priceSales>14400</priceSales>
+				<priceStandard>16000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>800</mileage>
+				<cover>https://image.aladin.co.kr/product/34474/76/coversum/s402035710_1.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>126065</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="345266070">
+			    <title>고전이 답했다 마땅히 살아야 할 삶에 대하여</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=345266070&amp;partner=openAPI&amp;start=api</link>
+				<author>고명환 (지은이)</author>
+				<pubDate>2024-08-26</pubDate> 
+				<description>매일 아침 7만 명이 유튜브 강의를 찾아 듣고, 한 달에 20여 차례 전국의 강연장을 찾아가 독자들을 만나는 이 시대 최고의 강연자. 30만 독자가 기다린 베스트셀러 저자 고명환이 지난 10여 년간의 인생 내공이 응축된 책, 『고전이 답했다 마땅히 살아야 할 삶에 대하여』에서 고전(古典)에서 길어 올린 흔들림 없는 삶의 내공을 전한다.</description>
+				<isbn>K622932853</isbn>
+				<isbn13>9791193939130</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/34526/60/coversum/k622932853_2.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>라곰</publisher>
+				<salesPoint>64402</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 7주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="344998179">
+			    <title>영원한 천국</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=344998179&amp;partner=openAPI&amp;start=api</link>
+				<author>정유정 (지은이)</author>
+				<pubDate>2024-08-28</pubDate> 
+				<description>출간된 작품마다 독자들을 ‘정유정 월드’로 이끌어온 소설가 정유정의 신작이 출간된다. 《28》에서는 전염병을, 《진이, 지니》에서는 호미노이드를 다루며, 세계의 변화를 선험적으로 감지하여 그 안에서 가장 인간다운 것이 무엇인지 탐구해온 작가의 이번 신작은 《완전한 행복》에 이은 욕망 3부작의 두 번째 책, 《영원한 천국》이다.</description>
+				<isbn>K712932751</isbn>
+				<isbn13>9791167374561</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/34499/81/coversum/k712932751_2.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>은행나무</publisher>
+				<salesPoint>79109</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 5주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="346189024">
+			    <title>흔한남매 17</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=346189024&amp;partner=openAPI&amp;start=api</link>
+				<author>흔한남매 (지은이), 백난도 (글), 유난희 (그림), 흔한컴퍼니 (감수)</author>
+				<pubDate>2024-09-11</pubDate> 
+				<description>으뜸이와 에이미의 단소 불기 도전, 수수께끼 악몽에 갇힌 흔한남매, 호정이와의 첫 만남, 남매와 자매의 자존심 싸움, 흔한 프렌즈의 요리 대결, 공포의 영화관 안내 방송, 씁아저씨가 비뚤어진 이유 등 매 순간이 명장면인 흔한남매의 일상을 감상해 보자.</description>
+				<isbn>K522933982</isbn>
+				<isbn13>9791168418844</isbn13>
+				<priceSales>14220</priceSales>
+				<priceStandard>15800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>790</mileage>
+				<cover>https://image.aladin.co.kr/product/34618/90/coversum/k522933982_1.jpg</cover>
+				<categoryId>49995</categoryId>
+				<categoryName>국내도서&gt;어린이&gt;TV/만화/영화&gt;만화 일반</categoryName>
+				<publisher>미래엔아이세움</publisher>
+				<salesPoint>54090</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>6</bestRank><seriesInfo><seriesId>685263</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=685263&amp;partner=openAPI</seriesLink><seriesName>흔한남매 17</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="346461236">
+			    <title>시대예보: 호명사회</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=346461236&amp;partner=openAPI&amp;start=api</link>
+				<author>송길영 (지은이)</author>
+				<pubDate>2024-09-26</pubDate> 
+				<description>‘핵개인의 시대’에 이은 송길영의 두 번째 시대예보는 ‘호명사회’다. 핵개인들이 서로의 이름을 부르는 호명사회는 조직의 이름 뒤에 숨을 수도, 숨을 필요도 없는 사회다. 자신이 한 일을 책임지고 온전히 자신이 한 일에 보상을 받는 새로운 공정한 시대인 호명사회는 어디까지 왔으며, 이 시대에 생존하기 위해 우리는 무엇을 준비하고 어떤 선택을 해야 할까?</description>
+				<isbn>K542933687</isbn>
+				<isbn13>9791170611875</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/34646/12/coversum/k542933687_2.jpg</cover>
+				<categoryId>3058</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;경제학/경제일반&gt;경제사/경제전망&gt;한국 경제사/경제전망</categoryName>
+				<publisher>교보문고(단행본)</publisher>
+				<salesPoint>72015</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="345604350">
+			    <title>즐거운 어른</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=345604350&amp;partner=openAPI&amp;start=api</link>
+				<author>이옥선 (지은이)</author>
+				<pubDate>2024-08-26</pubDate> 
+				<description>이옥선 작가는 독보적인 말하기와 글쓰기로 요즘 여성 독자들을 사로잡고 있는 김하나 작가의 어머니이다. 집안에 가훈처럼 내려오는 지령이 '만다꼬'(뭐한다고)일 정도로, 세간의 집들과는 사뭇 다른 분위기로 가정을 경영해온 이옥선 작가가 첫 단독에세이를 펴냈다. 책 제목은 '즐거운 어른'.</description>
+				<isbn>K762933261</isbn>
+				<isbn13>9791194184034</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/34560/43/coversum/k762933261_1.jpg</cover>
+				<categoryId>51371</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;한국에세이</categoryName>
+				<publisher>이야기장수</publisher>
+				<salesPoint>64674</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="344338610">
+			    <title>찬란한 멸종 - 거꾸로 읽는 유쾌한 지구의 역사</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=344338610&amp;partner=openAPI&amp;start=api</link>
+				<author>이정모 (지은이)</author>
+				<pubDate>2024-08-07</pubDate> 
+				<description>JTBC &amp;lt;차이나는 클라스&amp;gt;, tvN &amp;lt;어쩌다 어른&amp;gt; 등의 방송과 유튜브 채널에서 ‘지구의 역사’와 ‘인류 대멸종’을 주제로 강의해 누적 조회 수 1100만 회 이상을 기록하며 화제를 모았던 이정모 저자가 『찬란한 멸종』을 통해 멸종으로 보는 46억 년 지구의 역사를 본격적으로 스토리텔링한다.
+</description>
+				<isbn>K472932124</isbn>
+				<isbn13>9791130655017</isbn13>
+				<priceSales>18900</priceSales>
+				<priceStandard>21000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1050</mileage>
+				<cover>https://image.aladin.co.kr/product/34433/86/coversum/k472932124_1.jpg</cover>
+				<categoryId>51315</categoryId>
+				<categoryName>국내도서&gt;과학&gt;지구과학&gt;지구</categoryName>
+				<publisher>다산북스</publisher>
+				<salesPoint>52260</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="343903162">
+			    <title>더 좋은 문장을 쓰고 싶은 당신을 위한 필사책</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343903162&amp;partner=openAPI&amp;start=api</link>
+				<author>이주윤 (지은이)</author>
+				<pubDate>2024-08-07</pubDate> 
+				<description>《요즘 어른을 위한 최소한의 문해력》, 《요즘 어른을 위한 최소한의 맞춤법》 등 10만 독자가 선택한 작가 이주윤이 그만의 필사 글쓰기 노하우를 담은 《더 좋은 문장을 쓰고 싶은 당신을 위한 필사책》을 출간했다.</description>
+				<isbn>K112932504</isbn>
+				<isbn13>9791194033127</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/34390/31/coversum/k112932504_1.jpg</cover>
+				<categoryId>51538</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;책읽기/글쓰기&gt;글쓰기</categoryName>
+				<publisher>빅피시</publisher>
+				<salesPoint>73470</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

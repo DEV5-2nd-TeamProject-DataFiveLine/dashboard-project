@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=2&amp;Week=4&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:40 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=2;Week=4</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="334776047">
+			    <title>나는 행복한 푸바오 할부지입니다 - 바오 가족과 함께한 기적 같은 나날들</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334776047&amp;partner=openAPI&amp;start=api</link>
+				<author>강철원(에버랜드 동물원) (지은이), 류정훈(에버랜드 커뮤니케이션 그룹) (사진)</author>
+				<pubDate>2024-02-25</pubDate> 
+				<description>‘판다 아빠’, ‘판다 할부지’ 강철원 사육사가 들려주는 바오 가족의 특별한 이야기를 담은 에세이. 강철원 사육사는 매일 쓰고 기록한다. 37년간 야생동물을 돌봐 온 베테랑 사육사의 철칙이다. 그의 첫 본격 에세이 《나는 행복한 푸바오 할부지입니다》는 그의 일기와 오랜 기록에서 시작되었다.</description>
+				<isbn>K412938057</isbn>
+				<isbn13>9791171251179</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/33477/60/coversum/k412938057_2.jpg</cover>
+				<categoryId>51376</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;사진/그림 에세이</categoryName>
+				<publisher>시공사</publisher>
+				<salesPoint>20306</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="329386807">
+			    <title>이처럼 사소한 것들</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329386807&amp;partner=openAPI&amp;start=api</link>
+				<author>클레어 키건 (지은이), 홍한별 (옮긴이)</author>
+				<pubDate>2023-11-27</pubDate> 
+				<description>2023년 4월 국내에 처음 소개된 『맡겨진 소녀』로 국내 문인들과 문학 독자들의 열렬한 환호를 받은 클레어 키건의 대표작. 자신이 속한 사회 공동체의 은밀한 공모를 발견하고 자칫 모든 걸 잃을 수 있는 선택 앞에서 고뇌하는 한 남자의 내면을 그린 작품이다.</description>
+				<isbn>K472936042</isbn>
+				<isbn13>9791130646381</isbn13>
+				<priceSales>12420</priceSales>
+				<priceStandard>13800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>690</mileage>
+				<cover>https://image.aladin.co.kr/product/32938/68/coversum/k472936042_2.jpg</cover>
+				<categoryId>52652</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;세계의 소설&gt;아일랜드소설</categoryName>
+				<publisher>다산책방</publisher>
+				<salesPoint>248054</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="334390024">
+			    <title>극락가 2</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334390024&amp;partner=openAPI&amp;start=api</link>
+				<author>사노 유토 (지은이)</author>
+				<pubDate>2024-02-29</pubDate> 
+				<description>타오와 함께, 목을 맨 시신이 연쇄적으로 나타나는 사건을 쫒던 알마는 그 현장인 신사 앞에서 수수께끼의 흑발 남자와 마주친다. 겁 많고 무해해 보였던 남자의 그늘에서 수상쩍게 꿈틀거리는 것은--? 그리고 '사라기'의 실력자 소녀, 네이와의 임무를 통해 밝혀지는 알마의 '약점'이란?!</description>
+				<isbn>K532938633</isbn>
+				<isbn13>9791172030339</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/33439/0/coversum/k532938633_1.jpg</cover>
+				<categoryId>4134</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;드라마틱 판타지</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>25569</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="332732565">
+			    <title>아이는 무엇으로 자라는가 - 세계적 가족 심리학자 버지니아 사티어의 15가지 양육 법칙</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332732565&amp;partner=openAPI&amp;start=api</link>
+				<author>버지니아 사티어 (지은이), 강유리 (옮긴이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>세계적 가족 심리학자, 가족치료의 1인자 버지니아 사티어의 역작이자 누적 부수 100만 부를 돌파한 책 『아이는 무엇으로 자라는가가 국내에서 출간되었다. 유수의 언론과 아동, 청소년 전문 교육자와 심리학자들이 극찬하는 이 책은 1988년에 첫 출간된 이후 전 세계 15개국에 번역 출간되었으며, 오랫동안 아마존 베스트셀러의 자리를 지켜온 전설적인 육아의 바이블로 통한다.</description>
+				<isbn>K302938773</isbn>
+				<isbn13>9791193506202</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/33273/25/coversum/k302938773_2.jpg</cover>
+				<categoryId>73196</categoryId>
+				<categoryName>국내도서&gt;좋은부모&gt;부모교육</categoryName>
+				<publisher>포레스트북스</publisher>
+				<salesPoint>52649</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 7주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="328923887">
+			    <title>나는 메트로폴리탄 미술관의 경비원입니다 - 경이로운 세계 속으로 숨어버린 한 남자의 이야기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328923887&amp;partner=openAPI&amp;start=api</link>
+				<author>패트릭 브링리 (지은이), 김희정, 조현주 (옮긴이)</author>
+				<pubDate>2023-11-24</pubDate> 
+				<description>뉴욕 메트로폴리탄 미술관에서 경비원으로 근무했던 패트릭 브링리의 독특하면서도 지적인 회고를 담은 에세이다. 가족의 죽음으로 고통 속에 웅크리고 있던 한 남자가 미술관에서 10년이라는 시간을 보내며 상실감을 극복하고 마침내 세상으로 나아갈 힘을 얻는 여정을 섬세하게 그려냈다.</description>
+				<isbn>K912934840</isbn>
+				<isbn13>9788901276533</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/32892/38/coversum/s402930162_1.jpg</cover>
+				<categoryId>51373</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;외국에세이</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>126870</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 5주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="334642062">
+			    <title>원펀맨 One Punch Man 29 - 권토중래</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334642062&amp;partner=openAPI&amp;start=api</link>
+				<author>ONE (지은이), 무라타 유스케 (그림)</author>
+				<pubDate>2024-02-20</pubDate> 
+				<description>괴수들이 출몰하는 현대 도시. 취미로 히어로 일을 하는 사나이가 나타났다. 반짝이는 대머리에 맹한 얼굴, 다소 촌스러운 복장을 한 사이타마는 아무리 봐도 유약한 소시민처럼 보이지만 사실은 혹독한 훈련을 거쳐 비현실적인 힘을 손에 넣은 인물이다. 그 힘을 이용해 어떤 괴수나 로봇도, 심지어 외계인까지 주먹 한방으로 해결해 버리는데…</description>
+				<isbn>K972938840</isbn>
+				<isbn13>9791172030292</isbn13>
+				<priceSales>4950</priceSales>
+				<priceStandard>5500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>270</mileage>
+				<cover>https://image.aladin.co.kr/product/33464/20/coversum/k972938840_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>12684</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 100위 3주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="334760489">
+			    <title>화산귀환 5 (한정판) - 만화, 엽서 1종 + 청명 특전 (백ver) 1종 + 핸드 스트랩 + 씰스티커 5종</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334760489&amp;partner=openAPI&amp;start=api</link>
+				<author>STUDIO LICO (지은이), 비가 (원작)</author>
+				<pubDate>2024-02-22</pubDate> 
+				<description>은하상단으로부터 막대한 후원을 받고 평화로워진 화산파. 청명은 새벽 수련을 하기 위해 오른 낙화봉에서 월하가인의 검무를 보게 된다. 이 검무는 화산의 옛 검술…?!</description>
+				<isbn>K082938056</isbn>
+				<isbn13>9791169635622</isbn13>
+				<priceSales>29700</priceSales>
+				<priceStandard>33000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1650</mileage>
+				<cover>https://image.aladin.co.kr/product/33476/4/coversum/k082938056_1.jpg</cover>
+				<categoryId>7443</categoryId>
+				<categoryName>국내도서&gt;만화&gt;인터넷 연재 만화</categoryName>
+				<publisher>에이템포미디어</publisher>
+				<salesPoint>6137</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>만화 100위 2주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="323615985">
+			    <title>마흔에 읽는 쇼펜하우어 - 마음의 위기를 다스리는 철학 수업</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323615985&amp;partner=openAPI&amp;start=api</link>
+				<author>강용수 (지은이)</author>
+				<pubDate>2023-09-07</pubDate> 
+				<description>인생의 의미를 끊임없이 고민한 철학자, 아르투어 쇼펜하우어의 깨달음과 철학적 사유 중 현시대 우리가 고통을 해소하고 마음의 위기를 극복하는 데 도움이 될 내용을 30가지로 정리했다.</description>
+				<isbn>K592935565</isbn>
+				<isbn13>9791192300818</isbn13>
+				<priceSales>15300</priceSales>
+				<priceStandard>17000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>850</mileage>
+				<cover>https://image.aladin.co.kr/product/32361/59/coversum/k592935565_2.jpg</cover>
+				<categoryId>51473</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;서양철학&gt;근대철학&gt;쇼펜하우어</categoryName>
+				<publisher>유노북스</publisher>
+				<salesPoint>123390</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>7</customerReviewRank>
+                
+                <bestDuration>종합 1위 4주</bestDuration><bestRank>8</bestRank><seriesInfo><seriesId>1107275</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1107275&amp;partner=openAPI</seriesLink><seriesName>마흔에 읽는 서양 고전 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

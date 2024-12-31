@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=6&amp;Week=4&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:41 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=6;Week=4</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="341211658">
+			    <title>그의 운명에 대한 아주 개인적인 생각</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341211658&amp;partner=openAPI&amp;start=api</link>
+				<author>유시민 (지은이)</author>
+				<pubDate>2024-06-19</pubDate> 
+				<description>우리가 묻고 싶었던 것, 그리고 유시민의 답. 우리가 겪어낸 지난 2년을 정리하고 다시 해체해 냉철하게 원인과 결과를 분석하며 개인과 사회가 겪어야 했던 변화들을 일목요연하게 보여준다.</description>
+				<isbn>896513806X</isbn>
+				<isbn13>9788965138068</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/34121/16/coversum/s812931190_2.jpg</cover>
+				<categoryId>51064</categoryId>
+				<categoryName>국내도서&gt;사회과학&gt;비평/칼럼&gt;정치비평/칼럼</categoryName>
+				<publisher>생각의길</publisher>
+				<salesPoint>134041</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 4주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341524439">
+			    <title>주술회전 26 쿼드러플 특장판 - 최강 캐릭터 책갈피(초판 부록) + 스탠딩 POP 3종(선착순 부록)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341524439&amp;partner=openAPI&amp;start=api</link>
+				<author>아쿠타미 게게 (지은이), 이정운 (옮긴이)</author>
+				<pubDate>2024-06-25</pubDate> 
+				<description>급이 다른 규모로 펼쳐지는 고죠 VS. 스쿠나의 최강 결전…! 영역의 동시 전개와 타서 끊어진 술식의 회복을 반복하던 전투는, 마허라가 소환되고 고죠의 영역 전개가 불가능해지면서 균형이 무너진 것처럼 보이는데――?!</description>
+				<isbn>K242931499</isbn>
+				<isbn13>9791136788429</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/34152/44/coversum/k242931499_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>서울미디어코믹스(서울문화사)</publisher>
+				<salesPoint>42262</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>7</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339501952">
+			    <title>한국 인터넷 밈의 계보학</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339501952&amp;partner=openAPI&amp;start=api</link>
+				<author>김경수 (지은이)</author>
+				<pubDate>2024-06-17</pubDate> 
+				<description>영상미학의 관점에서 본 대한민국 인터넷 밈 비평서다. 한편으로는 손에 잡힐 듯 잡히지 않는 인터넷 밈의 윤곽을 매체라는 배경을 통해 그려보려는 시도이다. 밈 없이 살 수 없게 된 저자가, 밈의 스타일과 계보를 추적하며 자신이 속해있던 한국 인터넷 사회를 조망하는 유쾌한 회고록이기도 하다.</description>
+				<isbn>K142930330</isbn>
+				<isbn13>9791157833399</isbn13>
+				<priceSales>18050</priceSales>
+				<priceStandard>19000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>570</mileage>
+				<cover>https://image.aladin.co.kr/product/33950/19/coversum/k142930330_2.jpg</cover>
+				<categoryId>51440</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;철학 일반&gt;교양 철학</categoryName>
+				<publisher>필로소픽</publisher>
+				<salesPoint>10834</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>예술/대중문화 10위 3주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340531663">
+			    <title>허송세월 - 김훈 문장 엽서(부록)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340531663&amp;partner=openAPI&amp;start=api</link>
+				<author>김훈 (지은이)</author>
+				<pubDate>2024-06-20</pubDate> 
+				<description>삶의 어쩔 수 없는 비애와 아름다움을 누구보다 잘 이해하는 우리 시대의 문장가, 김훈. 그가 《연필로 쓰기》 이후 5년 만에 독자들을 다시 한번 사로잡을 산문으로 돌아왔다. 그 어느 때보다 치열하고 치밀했던 그의 ‘허송세월’을 담은 40여 편의 글이 실렸다.</description>
+				<isbn>893004168X</isbn>
+				<isbn13>9788930041683</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/34053/16/coversum/893004168x_2.jpg</cover>
+				<categoryId>51371</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;한국에세이</categoryName>
+				<publisher>나남출판</publisher>
+				<salesPoint>70811</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 8주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340097859">
+			    <title>THE MONEY BOOK 더 머니북 - 잘 살아갈 우리를 위한 금융생활 안내서</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340097859&amp;partner=openAPI&amp;start=api</link>
+				<author>토스 (지은이)</author>
+				<pubDate>2024-05-27</pubDate> 
+				<description>돈이 행복의 필수 조건이라고 여기면서도, 막상 돈을 잘 모르는 사람들. 《더 머니북》은 이 사람들을 위해 만들어졌다. 사용자들에게 자주 받아온 “금융교육은 어디서 받나요?”라는 질문에 토스가 내놓는 답이자, ‘누구나 편리하고 평등하게 금융하는 세상 만들기’라는 진심을 말하는 시작점이다.</description>
+				<isbn>K772931867</isbn>
+				<isbn13>9791198686114</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/34009/78/coversum/k772931867_1.jpg</cover>
+				<categoryId>8587</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;경제학/경제일반&gt;화폐/금융/재정</categoryName>
+				<publisher>비바리퍼블리카</publisher>
+				<salesPoint>63707</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="85887573">
+			    <title>리틀 라이프 1</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=85887573&amp;partner=openAPI&amp;start=api</link>
+				<author>한야 야나기하라 (지은이), 권진아 (옮긴이)</author>
+				<pubDate>2016-06-16</pubDate> 
+				<description>영미권을 대표하는 문학상 맨부커상과 전미도서상 최종후보에 나란히 오르고, 「뉴욕타임스」, 「워싱턴포스트」, 「가디언」, 「월스트리트저널」을 비롯한 25개 언론사에서 '올해의 책'으로 꼽은 화제작.</description>
+				<isbn>8952776372</isbn>
+				<isbn13>9788952776372</isbn13>
+				<priceSales>13320</priceSales>
+				<priceStandard>14800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>740</mileage>
+				<cover>https://image.aladin.co.kr/product/8588/75/coversum/8952776372_3.jpg</cover>
+				<categoryId>50919</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;영미소설</categoryName>
+				<publisher>시공사</publisher>
+				<salesPoint>65260</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341726141">
+			    <title>사카모토 데이즈 16 - 해후</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341726141&amp;partner=openAPI&amp;start=api</link>
+				<author>스즈키 유우토 (지은이)</author>
+				<pubDate>2024-06-27</pubDate> 
+				<description>킬러전 티켓을 얻기 위해 분주히 움직인느 사카모토 일행. 옥션 암거래에 희망을 걸어보지만, 집요하게 방해하는 수수께끼의 인물과 쟁탈전이 벌어지는데?!</description>
+				<isbn>K852931118</isbn>
+				<isbn13>9791172453497</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/34172/61/coversum/k852931118_1.jpg</cover>
+				<categoryId>2552</categoryId>
+				<categoryName>국내도서&gt;만화&gt;코믹/명랑만화</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>12838</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341217269">
+			    <title>스파이 패밀리 13</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341217269&amp;partner=openAPI&amp;start=api</link>
+				<author>엔도 타츠야 (지은이)</author>
+				<pubDate>2024-06-25</pubDate> 
+				<description></description>
+				<isbn>K982931099</isbn>
+				<isbn13>9791141134402</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/34121/72/coversum/k982931099_1.jpg</cover>
+				<categoryId>3742</categoryId>
+				<categoryName>국내도서&gt;만화&gt;순정만화&gt;레이디스 코믹</categoryName>
+				<publisher>학산문화사(만화)</publisher>
+				<salesPoint>17759</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336489042">
+			    <title>하루 한 장 나의 어휘력을 위한 필사 노트 - 할 말은 많지만 쓸 만한 말이 없는 어른들을 위한 숨은 어휘력 찾기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336489042&amp;partner=openAPI&amp;start=api</link>
+				<author>유선경 (지은이)</author>
+				<pubDate>2024-03-28</pubDate> 
+				<description>《어른의 어휘력》, 《감정 어휘》 어휘력 도서 최다 판매 유선경 작가의 첫 필사책. “오늘부터 하루 한 장, 나의 어휘력을 위한 필사를 시작합니다”</description>
+				<isbn>K172939414</isbn>
+				<isbn13>9791171711673</isbn13>
+				<priceSales>21420</priceSales>
+				<priceStandard>23800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>1190</mileage>
+				<cover>https://image.aladin.co.kr/product/33648/90/coversum/k172939414_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>위즈덤하우스</publisher>
+				<salesPoint>84304</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 11주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="85887803">
+			    <title>리틀 라이프 2</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=85887803&amp;partner=openAPI&amp;start=api</link>
+				<author>한야 야나기하라 (지은이), 권진아 (옮긴이)</author>
+				<pubDate>2016-06-16</pubDate> 
+				<description>영미권을 대표하는 문학상 맨부커상과 전미도서상 최종후보에 나란히 오르고, 「뉴욕타임스」, 「워싱턴포스트」, 「가디언」, 「월스트리트저널」을 비롯한 25개 언론사에서 '올해의 책'으로 꼽은 화제작.</description>
+				<isbn>8952776380</isbn>
+				<isbn13>9788952776389</isbn13>
+				<priceSales>13320</priceSales>
+				<priceStandard>14800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>740</mileage>
+				<cover>https://image.aladin.co.kr/product/8588/78/coversum/8952776380_3.jpg</cover>
+				<categoryId>50919</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;영미소설</categoryName>
+				<publisher>시공사</publisher>
+				<salesPoint>52598</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

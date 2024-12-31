@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=8&amp;Week=2&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:42 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=8;Week=2</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="342922559">
+			    <title>당신이 누군가를 죽였다</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342922559&amp;partner=openAPI&amp;start=api</link>
+				<author>히가시노 게이고 (지은이), 최고은 (옮긴이)</author>
+				<pubDate>2024-07-23</pubDate> 
+				<description>일본 최고의 베스트셀러 작가 히가시노 게이고의 장편소설『당신이 누군가를 죽였다』가 출간되었다. 작품은 장르문학계의 거장인 작가가 101번째 작품을 맞아 추리소설의 원점으로 돌아가 ‘황금시대 미스터리’의 매력을 유감없이 발휘한 걸작으로 평단과 독자의 호평을 받고 있다.</description>
+				<isbn>K692932177</isbn>
+				<isbn13>9791170611561</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/34292/25/coversum/k692932177_1.jpg</cover>
+				<categoryId>51058</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;추리/미스터리소설&gt;일본 추리/미스터리소설</categoryName>
+				<publisher>북다</publisher>
+				<salesPoint>67514</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 2주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="342334735">
+			    <title>너에게 들려주는 단단한 말</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342334735&amp;partner=openAPI&amp;start=api</link>
+				<author>김종원 (지은이)</author>
+				<pubDate>2024-07-10</pubDate> 
+				<description>청소년을 위한 인생철학 에세이다. ‘나’라는 존재와 친구와의 관계, 공부와 성적, 꿈과 진로 등에 관한 고민이 커지는 청소년기는 인생이란 여정에서 어둡고 막막한 터널을 처음으로 마주하는 시기다. 어떤 생각을 키우고, 어떤 마음을 갖느냐에 따라 앞으로 펼쳐질 삶의 모양이 달라질 수도 있기에 저자는 단어 하나, 문장 하나에도 온 마음을 담았다.</description>
+				<isbn>K212931234</isbn>
+				<isbn13>9791198682550</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/34233/47/coversum/k212931234_2.jpg</cover>
+				<categoryId>1142</categoryId>
+				<categoryName>국내도서&gt;청소년&gt;청소년 인문/사회</categoryName>
+				<publisher>퍼스트펭귄</publisher>
+				<salesPoint>87357</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="344472686">
+			    <title>블루 아카이브 오피셜 아트웍스 2</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=344472686&amp;partner=openAPI&amp;start=api</link>
+				<author>신민섭 (옮긴이), NEXON GAMES (감수)</author>
+				<pubDate>2024-09-05</pubDate> 
+				<description></description>
+				<isbn>K302932338</isbn>
+				<isbn13>9791141137069</isbn13>
+				<priceSales>38700</priceSales>
+				<priceStandard>43000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>2150</mileage>
+				<cover>https://image.aladin.co.kr/product/34447/26/coversum/k302932338_1.jpg</cover>
+				<categoryId>4134</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;드라마틱 판타지</categoryName>
+				<publisher>학산문화사(만화)</publisher>
+				<salesPoint>13231</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="274349624">
+			    <title>만화로 보는 3분 철학 1 : 서양 고대 철학편</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274349624&amp;partner=openAPI&amp;start=api</link>
+				<author>김재훈, 서정욱 (지은이)</author>
+				<pubDate>2021-07-02</pubDate> 
+				<description>인문학과 철학의 중요성이 강조되는 시대지만 정작 어디부터 공부하면 좋을지 몰라 막막해하는 사람들을 위한 책, 『만화로 보는 3분 철학』이 카시오페아에서 출간되었다.</description>
+				<isbn>K092733374</isbn>
+				<isbn13>9791190776752</isbn13>
+				<priceSales>14400</priceSales>
+				<priceStandard>16000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>800</mileage>
+				<cover>https://image.aladin.co.kr/product/27434/96/coversum/k092733374_1.jpg</cover>
+				<categoryId>51440</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;철학 일반&gt;교양 철학</categoryName>
+				<publisher>카시오페아</publisher>
+				<salesPoint>73135</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>4</bestRank><seriesInfo><seriesId>1011079</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1011079&amp;partner=openAPI</seriesLink><seriesName>만화로 보는 3분 철학 1</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="343316437">
+			    <title>저속노화 식사법 - 노년내과 의사가 알려주는 기적의 식단 혁명</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343316437&amp;partner=openAPI&amp;start=api</link>
+				<author>정희원 (지은이)</author>
+				<pubDate>2024-07-26</pubDate> 
+				<description>일명 ‘저속노화 선생님’, 서울아산병원 노년내과 의사 정희원의 『저속노화 식사법』이 테이스트북스에서 출간되었다. 만성질환을 예방하는 지중해식 식단과 고혈압을 예방하는 대시(DASH) 식단 요소의 장점만을 합친 MIND 식사법을 저속노화 식사로 제안한다.</description>
+				<isbn>K332932798</isbn>
+				<isbn13>9791141606862</isbn13>
+				<priceSales>17100</priceSales>
+				<priceStandard>19000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>950</mileage>
+				<cover>https://image.aladin.co.kr/product/34331/64/coversum/k332932798_1.jpg</cover>
+				<categoryId>53556</categoryId>
+				<categoryName>국내도서&gt;건강/취미&gt;건강정보&gt;음식과 건강</categoryName>
+				<publisher>테이스트북스</publisher>
+				<salesPoint>56997</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="344472599">
+			    <title>블루 아카이브 오피셜 아트웍스 2 (한정판) - 글리터아크릴 4종 + 일러스트 카드 6매 + 스페셜 오리지널 티켓 1종 + 네컷사진 2종 + L홀더 + 박스</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=344472599&amp;partner=openAPI&amp;start=api</link>
+				<author>신민섭 (옮긴이), NEXON GAMES (감수)</author>
+				<pubDate>2024-09-05</pubDate> 
+				<description></description>
+				<isbn>K242932338</isbn>
+				<isbn13>9791141134013</isbn13>
+				<priceSales>88200</priceSales>
+				<priceStandard>98000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>4900</mileage>
+				<cover>https://image.aladin.co.kr/product/34447/25/coversum/k242932338_1.jpg</cover>
+				<categoryId>4134</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;드라마틱 판타지</categoryName>
+				<publisher>학산문화사(만화)</publisher>
+				<salesPoint>7815</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>만화 100위 5주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="342861086">
+			    <title>비 그친 오후의 헌책방</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342861086&amp;partner=openAPI&amp;start=api</link>
+				<author>야기사와 사토시 (지은이), 서혜영 (옮긴이)</author>
+				<pubDate>2024-08-05</pubDate> 
+				<description>소설은 평화롭던 날을 보내던 다카코가 1년 동안 사내연애를 해온 남자친구에게서 다른 여자와 결혼하게 됐다는 갑작스러운 이별 통보를 받는 장면으로 시작된다. 이별의 충격으로 회사마저 그만두고 폐인이 되어 집에 틀어박혔는데, 어느 날 왕래가 뜸했던 외삼촌에게 전화가 걸려온다.</description>
+				<isbn>K302932076</isbn>
+				<isbn13>9791130653891</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/34286/10/coversum/k302932076_2.jpg</cover>
+				<categoryId>50998</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;일본소설&gt;1950년대 이후 일본소설</categoryName>
+				<publisher>다산책방</publisher>
+				<salesPoint>24450</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="256860565">
+			    <title>사피엔스 : 그래픽 히스토리 Vol.1 - 인류의 탄생</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=256860565&amp;partner=openAPI&amp;start=api</link>
+				<author>유발 하라리 (원작), 다니엘 카사나브 (그림), 김명주 (옮긴이), 다비드 반데르묄렝 (각색)</author>
+				<pubDate>2020-11-23</pubDate> 
+				<description>《사피엔스: 그래픽 히스토리》 시리즈는 교양 논픽션인 원작의 핵심이 기발한 각색과 세련된 그림을 통해 흡인력 강한 스토리텔링으로 재탄생한 그래픽노블의 걸작이다. 그중 첫 권은 원작의 ‘1부 인지혁명’을 다룬다.</description>
+				<isbn>8934991321</isbn>
+				<isbn13>9788934991328</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/25686/5/coversum/8934991321_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>김영사</publisher>
+				<salesPoint>57314</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>8</bestRank><seriesInfo><seriesId>937633</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=937633&amp;partner=openAPI</seriesLink><seriesName>사피엔스 : 그래픽 히스토리 1</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336489042">
+			    <title>하루 한 장 나의 어휘력을 위한 필사 노트 - 할 말은 많지만 쓸 만한 말이 없는 어른들을 위한 숨은 어휘력 찾기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336489042&amp;partner=openAPI&amp;start=api</link>
+				<author>유선경 (지은이)</author>
+				<pubDate>2024-03-28</pubDate> 
+				<description>《어른의 어휘력》, 《감정 어휘》 어휘력 도서 최다 판매 유선경 작가의 첫 필사책. “오늘부터 하루 한 장, 나의 어휘력을 위한 필사를 시작합니다”</description>
+				<isbn>K172939414</isbn>
+				<isbn13>9791171711673</isbn13>
+				<priceSales>21420</priceSales>
+				<priceStandard>23800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>1190</mileage>
+				<cover>https://image.aladin.co.kr/product/33648/90/coversum/k172939414_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>위즈덤하우스</publisher>
+				<salesPoint>84304</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 11주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="330109498">
+			    <title>ETS 토익 정기시험 기출문제집 1000 Vol. 4 Reading (리딩) - 토익 기출문제 독점출간/ ALL NEW 최신기출 10회 수록/ 문제집+해설집+무료 동영상 강의+기출어휘 단어장(PDF)+APP 모바일 학습</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330109498&amp;partner=openAPI&amp;start=api</link>
+				<author>ETS (엮은이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>정기시험 최신 기출문제 10세트가 수록되어 있다. 시험에 나온 최신 기출문제로 실전 감각을 키워 시험에 확실하게 대비할 수 있다. 교재 내 QR코드는 해당 회차의 무료 동영상 강의로 연결된다. 오답률 높은 고난도 문항을 친절한 해설 강의와 함께 수록하였다.</description>
+				<isbn>8917239501</isbn>
+				<isbn13>9788917239508</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33010/94/coversum/8917239501_1.jpg</cover>
+				<categoryId>49854</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;토익&gt;Reading</categoryName>
+				<publisher>(주)YBM(와이비엠)</publisher>
+				<salesPoint>203485</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 18주</bestDuration><bestRank>10</bestRank><seriesInfo><seriesId>625613</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=625613&amp;partner=openAPI</seriesLink><seriesName>ETS 토익 정기시험 기출문제집 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

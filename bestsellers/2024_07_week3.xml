@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=7&amp;Week=3&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:42 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=7;Week=3</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="341211658">
+			    <title>그의 운명에 대한 아주 개인적인 생각</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341211658&amp;partner=openAPI&amp;start=api</link>
+				<author>유시민 (지은이)</author>
+				<pubDate>2024-06-19</pubDate> 
+				<description>우리가 묻고 싶었던 것, 그리고 유시민의 답. 우리가 겪어낸 지난 2년을 정리하고 다시 해체해 냉철하게 원인과 결과를 분석하며 개인과 사회가 겪어야 했던 변화들을 일목요연하게 보여준다.</description>
+				<isbn>896513806X</isbn>
+				<isbn13>9788965138068</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/34121/16/coversum/s812931190_2.jpg</cover>
+				<categoryId>51064</categoryId>
+				<categoryName>국내도서&gt;사회과학&gt;비평/칼럼&gt;정치비평/칼럼</categoryName>
+				<publisher>생각의길</publisher>
+				<salesPoint>134041</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 4주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="329745037">
+			    <title>2024 큰별쌤 최태성의 별★별한국사 한국사능력검정시험 심화(1, 2, 3급) 상 - 한국사능력검정시험 심화(1, 2, 3급)에 대비한 맞춤 기본서</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329745037&amp;partner=openAPI&amp;start=api</link>
+				<author>최태성 (지은이)</author>
+				<pubDate>2023-12-01</pubDate> 
+				<description>오랜 연구와 검증으로 한국사에 기초가 전혀 없는 사람도 단기간에 한능검에 합격할 수 있는 최적의 구성을 완성하였다. 판서의 장인 큰별쌤 최태성이 핵심만을 모아 만든 아트 판서를 수록하고, 시험에 자주 등장하는 사료, 사진, 지도 등을 모아 해설하여 합격을 위한 필수 개념을 익히기 쉽게 하였다.</description>
+				<isbn>K422936456</isbn>
+				<isbn13>9791138919999</isbn13>
+				<priceSales>14400</priceSales>
+				<priceStandard>16000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>구판절판</stockStatus>
+				<mileage>800</mileage>
+				<cover>https://image.aladin.co.kr/product/32974/50/coversum/k422936456_1.jpg</cover>
+				<categoryId>166525</categoryId>
+				<categoryName>국내도서&gt;수험서/자격증&gt;한국사능력검정시험&gt;심화(1,2,3급)</categoryName>
+				<publisher>이투스북</publisher>
+				<salesPoint>100828</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>2</bestRank><seriesInfo><seriesId>120416</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=120416&amp;partner=openAPI</seriesLink><seriesName>큰별쌤 최태성의 별★별한국사 한국사능력검정시험 시리즈 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341793447">
+			    <title>죽이고 싶은 아이 2</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341793447&amp;partner=openAPI&amp;start=api</link>
+				<author>이꽃님 (지은이)</author>
+				<pubDate>2024-07-01</pubDate> 
+				<description>한국 청소년 문학의 역사를 새로 쓴 이꽃님의 『죽이고 싶은 아이』, 그 두 번째 이야기가 지금 우리에게 도착했다. 압도적인 몰입감과 휘몰아치는 전개로 수십만 독자를 단숨에 사로잡은 『죽이고 싶은 아이』의 명성을 고스란히 잇는, 기대 그 이상의 완벽한 속편의 모습으로.</description>
+				<isbn>K122931213</isbn>
+				<isbn13>9791167552723</isbn13>
+				<priceSales>12600</priceSales>
+				<priceStandard>14000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>700</mileage>
+				<cover>https://image.aladin.co.kr/product/34179/34/coversum/k122931213_1.jpg</cover>
+				<categoryId>50759</categoryId>
+				<categoryName>국내도서&gt;청소년&gt;청소년 문학&gt;청소년 소설</categoryName>
+				<publisher>우리학교</publisher>
+				<salesPoint>64566</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>3</bestRank><seriesInfo><seriesId>1194048</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1194048&amp;partner=openAPI</seriesLink><seriesName>죽이고 싶은 아이 (무선) 2</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="329745341">
+			    <title>2024 큰별쌤 최태성의 별★별한국사 한국사능력검정시험 심화(1, 2, 3급) 하 - 한국사능력검정시험 심화(1, 2, 3급)에 대비한 맞춤 기본서</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329745341&amp;partner=openAPI&amp;start=api</link>
+				<author>최태성 (지은이)</author>
+				<pubDate>2023-12-01</pubDate> 
+				<description>한국사에 기초가 전혀 없는 사람도 단기간에 한능검에 합격할 수 있는 수험서다. 판서의 장인 큰별쌤 최태성이 핵심만을 모아 만든 아트 판서를 수록하고, 시험에 자주 등장하는 사료, 사진, 지도 등을 모아 해설하여 합격을 위한 필수 개념을 익히기 쉽게 하였다.</description>
+				<isbn>K762936456</isbn>
+				<isbn13>9791138920001</isbn13>
+				<priceSales>13950</priceSales>
+				<priceStandard>15500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>구판절판</stockStatus>
+				<mileage>770</mileage>
+				<cover>https://image.aladin.co.kr/product/32974/53/coversum/k762936456_1.jpg</cover>
+				<categoryId>166525</categoryId>
+				<categoryName>국내도서&gt;수험서/자격증&gt;한국사능력검정시험&gt;심화(1,2,3급)</categoryName>
+				<publisher>이투스북</publisher>
+				<salesPoint>95006</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>4</bestRank><seriesInfo><seriesId>120416</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=120416&amp;partner=openAPI</seriesLink><seriesName>큰별쌤 최태성의 별★별한국사 한국사능력검정시험 시리즈 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="342857078">
+			    <title>최애의 아이 13</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342857078&amp;partner=openAPI&amp;start=api</link>
+				<author>아카사카 아카 (지은이), 요코야리 멘고 (그림)</author>
+				<pubDate>2024-07-24</pubDate> 
+				<description>호시노 루비는 쿠로카와 아카네, 시라누이 프릴과 개인간 오디션을 통해 주연 자리를 차지하여 호시노 아이 역을 맡게 된다. 갈수록 바빠지는 아이돌 및 탤런트 활동과 더불어 연기에도 본격적으로 도전하게 된다.</description>
+				<isbn>K862932074</isbn>
+				<isbn13>9791172457273</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/34285/70/coversum/k862932074_1.jpg</cover>
+				<categoryId>3742</categoryId>
+				<categoryName>국내도서&gt;만화&gt;순정만화&gt;레이디스 코믹</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>17256</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 3주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340531663">
+			    <title>허송세월 - 김훈 문장 엽서(부록)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340531663&amp;partner=openAPI&amp;start=api</link>
+				<author>김훈 (지은이)</author>
+				<pubDate>2024-06-20</pubDate> 
+				<description>삶의 어쩔 수 없는 비애와 아름다움을 누구보다 잘 이해하는 우리 시대의 문장가, 김훈. 그가 《연필로 쓰기》 이후 5년 만에 독자들을 다시 한번 사로잡을 산문으로 돌아왔다. 그 어느 때보다 치열하고 치밀했던 그의 ‘허송세월’을 담은 40여 편의 글이 실렸다.</description>
+				<isbn>893004168X</isbn>
+				<isbn13>9788930041683</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/34053/16/coversum/893004168x_2.jpg</cover>
+				<categoryId>51371</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;한국에세이</categoryName>
+				<publisher>나남출판</publisher>
+				<salesPoint>70811</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 8주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="342334735">
+			    <title>너에게 들려주는 단단한 말</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342334735&amp;partner=openAPI&amp;start=api</link>
+				<author>김종원 (지은이)</author>
+				<pubDate>2024-07-10</pubDate> 
+				<description>청소년을 위한 인생철학 에세이다. ‘나’라는 존재와 친구와의 관계, 공부와 성적, 꿈과 진로 등에 관한 고민이 커지는 청소년기는 인생이란 여정에서 어둡고 막막한 터널을 처음으로 마주하는 시기다. 어떤 생각을 키우고, 어떤 마음을 갖느냐에 따라 앞으로 펼쳐질 삶의 모양이 달라질 수도 있기에 저자는 단어 하나, 문장 하나에도 온 마음을 담았다.</description>
+				<isbn>K212931234</isbn>
+				<isbn13>9791198682550</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/34233/47/coversum/k212931234_2.jpg</cover>
+				<categoryId>1142</categoryId>
+				<categoryName>국내도서&gt;청소년&gt;청소년 인문/사회</categoryName>
+				<publisher>퍼스트펭귄</publisher>
+				<salesPoint>87357</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="342916652">
+			    <title>얼굴만으론 좋아할 수 없어요 10 (더블특장판) - 폴라로이드풍 일러스트 카드(초판부록) + SNS풍 PET 카드(선착순 한정 부록)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342916652&amp;partner=openAPI&amp;start=api</link>
+				<author>안자이 카린 (지은이), 이소연 (옮긴이)</author>
+				<pubDate>2024-07-19</pubDate> 
+				<description>얼굴을 밝히는 여고생 사나는 최애 카나토 선배와 함께 학교 공식 계정을 운영하던 중 연인으로 발전한다. 학년이 바뀌며 공식 계정의 후계자를 찾는 사나와 친구들 앞에 나타난 건…?</description>
+				<isbn>K292932175</isbn>
+				<isbn13></isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/34291/66/coversum/k292932175_1.jpg</cover>
+				<categoryId>3742</categoryId>
+				<categoryName>국내도서&gt;만화&gt;순정만화&gt;레이디스 코믹</categoryName>
+				<publisher>서울미디어코믹스(서울문화사)</publisher>
+				<salesPoint>7914</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341735122">
+			    <title>대화의 힘 - 원하는 모든 것을 얻어내는 최고의 기술</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341735122&amp;partner=openAPI&amp;start=api</link>
+				<author>찰스 두히그 (지은이), 조은영 (옮긴이)</author>
+				<pubDate>2024-06-25</pubDate> 
+				<description>퓰리처상 수상 저널리스트이자 미국 최고의 논픽션 작가 찰스 두히그가 8년 만에 펴낸 신작이다. 습관의 매커니즘을 풀기 위해 스스로 나쁜 습관 끊어내기 실험을 했던 저자는 이번에는 탁월한 슈퍼 커뮤니케이터를 찾아내 그들의 능력을 낱낱이 해부한다.</description>
+				<isbn>890128510X</isbn>
+				<isbn13>9788901285108</isbn13>
+				<priceSales>17100</priceSales>
+				<priceStandard>19000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>950</mileage>
+				<cover>https://image.aladin.co.kr/product/34173/51/coversum/890128510x_1.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>갤리온</publisher>
+				<salesPoint>21736</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 100위 3주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340097859">
+			    <title>THE MONEY BOOK 더 머니북 - 잘 살아갈 우리를 위한 금융생활 안내서</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340097859&amp;partner=openAPI&amp;start=api</link>
+				<author>토스 (지은이)</author>
+				<pubDate>2024-05-27</pubDate> 
+				<description>돈이 행복의 필수 조건이라고 여기면서도, 막상 돈을 잘 모르는 사람들. 《더 머니북》은 이 사람들을 위해 만들어졌다. 사용자들에게 자주 받아온 “금융교육은 어디서 받나요?”라는 질문에 토스가 내놓는 답이자, ‘누구나 편리하고 평등하게 금융하는 세상 만들기’라는 진심을 말하는 시작점이다.</description>
+				<isbn>K772931867</isbn>
+				<isbn13>9791198686114</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/34009/78/coversum/k772931867_1.jpg</cover>
+				<categoryId>8587</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;경제학/경제일반&gt;화폐/금융/재정</categoryName>
+				<publisher>비바리퍼블리카</publisher>
+				<salesPoint>63707</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

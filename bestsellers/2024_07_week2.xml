@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=7&amp;Week=2&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:41 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=7;Week=2</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="342594262">
+			    <title>전지적 루이&amp;후이 시점 (양장본) - 쌍둥이 아기 판다의 슬기로운 도전 빛나는 시작</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342594262&amp;partner=openAPI&amp;start=api</link>
+				<author>송영관(에버랜드 동물원) (지은이), 송영관(에버랜드 동물원), 류정훈(에버랜드 커뮤니케이션 그룹) (사진)</author>
+				<pubDate>2024-07-31</pubDate> 
+				<description>에버랜드 판다월드에 찾아온 또 다른 기적 루이바오와 후이바오의 탄생과 성장의 스토리를 담은 포토에세이가 출간된다. 《전지적 푸바오 시점》으로 행복을 주는 보물 푸바오와 함께한 기억을 전한 작은할부지 송바오(송영관 주키퍼)가 이번 《전지적 루이&amp;후이 시점》에도 함께한다.</description>
+				<isbn>K312932961</isbn>
+				<isbn13>9791171712373</isbn13>
+				<priceSales>22500</priceSales>
+				<priceStandard>25000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1250</mileage>
+				<cover>https://image.aladin.co.kr/product/34259/42/coversum/k312932961_1.jpg</cover>
+				<categoryId>51376</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;사진/그림 에세이</categoryName>
+				<publisher>위즈덤하우스</publisher>
+				<salesPoint>20903</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 3주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341211658">
+			    <title>그의 운명에 대한 아주 개인적인 생각</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341211658&amp;partner=openAPI&amp;start=api</link>
+				<author>유시민 (지은이)</author>
+				<pubDate>2024-06-19</pubDate> 
+				<description>우리가 묻고 싶었던 것, 그리고 유시민의 답. 우리가 겪어낸 지난 2년을 정리하고 다시 해체해 냉철하게 원인과 결과를 분석하며 개인과 사회가 겪어야 했던 변화들을 일목요연하게 보여준다.</description>
+				<isbn>896513806X</isbn>
+				<isbn13>9788965138068</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/34121/16/coversum/s812931190_2.jpg</cover>
+				<categoryId>51064</categoryId>
+				<categoryName>국내도서&gt;사회과학&gt;비평/칼럼&gt;정치비평/칼럼</categoryName>
+				<publisher>생각의길</publisher>
+				<salesPoint>134041</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 4주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340531663">
+			    <title>허송세월 - 김훈 문장 엽서(부록)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340531663&amp;partner=openAPI&amp;start=api</link>
+				<author>김훈 (지은이)</author>
+				<pubDate>2024-06-20</pubDate> 
+				<description>삶의 어쩔 수 없는 비애와 아름다움을 누구보다 잘 이해하는 우리 시대의 문장가, 김훈. 그가 《연필로 쓰기》 이후 5년 만에 독자들을 다시 한번 사로잡을 산문으로 돌아왔다. 그 어느 때보다 치열하고 치밀했던 그의 ‘허송세월’을 담은 40여 편의 글이 실렸다.</description>
+				<isbn>893004168X</isbn>
+				<isbn13>9788930041683</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/34053/16/coversum/893004168x_2.jpg</cover>
+				<categoryId>51371</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;한국에세이</categoryName>
+				<publisher>나남출판</publisher>
+				<salesPoint>70811</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 8주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340716662">
+			    <title>엄마만의 방</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340716662&amp;partner=openAPI&amp;start=api</link>
+				<author>김그래 (지은이)</author>
+				<pubDate>2024-07-05</pubDate> 
+				<description>콘텐츠 창작 플랫폼 「투비컨티뉴드」 누적 조회수 17만 회에 달하는 김그래의 연재 만화가 미공개 에피소드와 에세이를 추가해 『엄마만의 방』(유유히)으로 정식 출간되었다. 차분한 그림체와 몽글몽글 위로가 되는 일상의 이야기들을 주로 그려온 김그래의 이번 책은 자신의 이야기가 아니라 엄마의 삶을 바라보는 딸의 입장에서 묵묵하고도 세심한 시선으로 그려나간다.</description>
+				<isbn>K032931472</isbn>
+				<isbn13>9791193739075</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/34071/66/coversum/k032931472_2.jpg</cover>
+				<categoryId>51376</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;사진/그림 에세이</categoryName>
+				<publisher>유유히</publisher>
+				<salesPoint>9004</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>에세이 10위 2주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341793447">
+			    <title>죽이고 싶은 아이 2</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341793447&amp;partner=openAPI&amp;start=api</link>
+				<author>이꽃님 (지은이)</author>
+				<pubDate>2024-07-01</pubDate> 
+				<description>한국 청소년 문학의 역사를 새로 쓴 이꽃님의 『죽이고 싶은 아이』, 그 두 번째 이야기가 지금 우리에게 도착했다. 압도적인 몰입감과 휘몰아치는 전개로 수십만 독자를 단숨에 사로잡은 『죽이고 싶은 아이』의 명성을 고스란히 잇는, 기대 그 이상의 완벽한 속편의 모습으로.</description>
+				<isbn>K122931213</isbn>
+				<isbn13>9791167552723</isbn13>
+				<priceSales>12600</priceSales>
+				<priceStandard>14000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>700</mileage>
+				<cover>https://image.aladin.co.kr/product/34179/34/coversum/k122931213_1.jpg</cover>
+				<categoryId>50759</categoryId>
+				<categoryName>국내도서&gt;청소년&gt;청소년 문학&gt;청소년 소설</categoryName>
+				<publisher>우리학교</publisher>
+				<salesPoint>64566</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>5</bestRank><seriesInfo><seriesId>1194048</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1194048&amp;partner=openAPI</seriesLink><seriesName>죽이고 싶은 아이 (무선) 2</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340097859">
+			    <title>THE MONEY BOOK 더 머니북 - 잘 살아갈 우리를 위한 금융생활 안내서</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340097859&amp;partner=openAPI&amp;start=api</link>
+				<author>토스 (지은이)</author>
+				<pubDate>2024-05-27</pubDate> 
+				<description>돈이 행복의 필수 조건이라고 여기면서도, 막상 돈을 잘 모르는 사람들. 《더 머니북》은 이 사람들을 위해 만들어졌다. 사용자들에게 자주 받아온 “금융교육은 어디서 받나요?”라는 질문에 토스가 내놓는 답이자, ‘누구나 편리하고 평등하게 금융하는 세상 만들기’라는 진심을 말하는 시작점이다.</description>
+				<isbn>K772931867</isbn>
+				<isbn13>9791198686114</isbn13>
+				<priceSales>19800</priceSales>
+				<priceStandard>22000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1100</mileage>
+				<cover>https://image.aladin.co.kr/product/34009/78/coversum/k772931867_1.jpg</cover>
+				<categoryId>8587</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;경제학/경제일반&gt;화폐/금융/재정</categoryName>
+				<publisher>비바리퍼블리카</publisher>
+				<salesPoint>63707</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="342151709">
+			    <title>츠츠츠츠</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342151709&amp;partner=openAPI&amp;start=api</link>
+				<author>이지은 (지은이)</author>
+				<pubDate>2024-07-02</pubDate> 
+				<description>2020년 출간되어 많은 사랑을 받고 있는 작품, 『이파라파냐무냐무』의 다음을 잇는 이야기로, 이야기의 주 무대는 털숭숭이가 사는 섬이다. 털숭숭이의 집은 어디일까? 궁금했던 독자라면, 이번 신작에서 한층 스펙터클한 이야기와 함께 속속들이 확인할 수 있다.</description>
+				<isbn>K482931037</isbn>
+				<isbn13>9791169812085</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/34215/17/coversum/k482931037_2.jpg</cover>
+				<categoryId>35134</categoryId>
+				<categoryName>국내도서&gt;유아&gt;그림책&gt;나라별 그림책&gt;한국 그림책</categoryName>
+				<publisher>사계절</publisher>
+				<salesPoint>26928</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 4주</bestDuration><bestRank>7</bestRank><seriesInfo><seriesId>87026</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=87026&amp;partner=openAPI</seriesLink><seriesName>사계절 그림책 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="330109498">
+			    <title>ETS 토익 정기시험 기출문제집 1000 Vol. 4 Reading (리딩) - 토익 기출문제 독점출간/ ALL NEW 최신기출 10회 수록/ 문제집+해설집+무료 동영상 강의+기출어휘 단어장(PDF)+APP 모바일 학습</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330109498&amp;partner=openAPI&amp;start=api</link>
+				<author>ETS (엮은이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>정기시험 최신 기출문제 10세트가 수록되어 있다. 시험에 나온 최신 기출문제로 실전 감각을 키워 시험에 확실하게 대비할 수 있다. 교재 내 QR코드는 해당 회차의 무료 동영상 강의로 연결된다. 오답률 높은 고난도 문항을 친절한 해설 강의와 함께 수록하였다.</description>
+				<isbn>8917239501</isbn>
+				<isbn13>9788917239508</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33010/94/coversum/8917239501_1.jpg</cover>
+				<categoryId>49854</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;토익&gt;Reading</categoryName>
+				<publisher>(주)YBM(와이비엠)</publisher>
+				<salesPoint>203485</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 18주</bestDuration><bestRank>8</bestRank><seriesInfo><seriesId>625613</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=625613&amp;partner=openAPI</seriesLink><seriesName>ETS 토익 정기시험 기출문제집 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="341306474">
+			    <title>음악소설집 音樂小說集</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341306474&amp;partner=openAPI&amp;start=api</link>
+				<author>김애란, 김연수, 윤성희, 은희경, 편혜영 (지은이)</author>
+				<pubDate>2024-06-13</pubDate> 
+				<description>음악 전문 출판사 ‘프란츠’가 선보이는 첫 소설 앤솔러지 『음악소설집音樂小說集』. 한국문학을 대표하는 다섯 소설가인 김애란, 김연수, 윤성희, 은희경, 편혜영의 음악을 테마로 한 신작 단편소설이 실렸다. 일상에서 마주치는 다채로운 음악의 장면들을 섬세하게 포착한 다섯 개의 이야기를 통해, 삶의 어떤 순간이라도 음악이 될 수 있다는 것을 깨닫게 한다.</description>
+				<isbn>K222931917</isbn>
+				<isbn13>9791197325892</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/34130/64/coversum/k222931917_2.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>프란츠</publisher>
+				<salesPoint>38630</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 100위 7주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339737027">
+			    <title>초역 부처의 말 - 2500년 동안 사랑받은</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339737027&amp;partner=openAPI&amp;start=api</link>
+				<author>코이케 류노스케 (지은이), 박재현 (옮긴이)</author>
+				<pubDate>2024-05-30</pubDate> 
+				<description>2500년 동안 사람들에게 사랑받으며 회자되어 온 부처의 말을 코이케 류노스케 스님이 현대어로 재해석해 책으로 출간했다. 간결하게 축약된 핵심만을 담은 부처의 메시지는, 마음이 약해지고 어려움에 처한 사람들에게 힘과 용기를 불어넣어 준다.</description>
+				<isbn>K682930444</isbn>
+				<isbn13>9791193506516</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33973/70/coversum/k682930444_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>포레스트북스</publisher>
+				<salesPoint>46504</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 14주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

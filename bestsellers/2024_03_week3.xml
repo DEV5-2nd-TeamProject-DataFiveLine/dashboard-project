@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=3&amp;Week=3&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:40 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=3;Week=3</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="336056457">
+			    <title>고층 입원실의 갱스터 할머니 - 남몰래 난치병 10년 차, ‘빵먹다살찐떡’이 온몸으로 아프고 온몸으로 사랑한 날들</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336056457&amp;partner=openAPI&amp;start=api</link>
+				<author>양유진 (지은이)</author>
+				<pubDate>2024-03-20</pubDate> 
+				<description>누군가의 오랜 아픔을 마주하는 일이 이토록 환하고 유쾌할 수 있을까? 마냥 해맑게 자랐을 것만 같았던 크리에이터 ‘빵먹다살찐떡’ 양유진의 첫 투병 고백 이야기다.</description>
+				<isbn>K072939705</isbn>
+				<isbn13>9791171174508</isbn13>
+				<priceSales>16920</priceSales>
+				<priceStandard>18800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>940</mileage>
+				<cover>https://image.aladin.co.kr/product/33605/64/coversum/k072939705_1.jpg</cover>
+				<categoryId>51371</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;한국에세이</categoryName>
+				<publisher>21세기북스</publisher>
+				<salesPoint>28563</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 3주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="334061481">
+			    <title>불변의 법칙 - 절대 변하지 않는 것들에 대한 23가지 이야기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334061481&amp;partner=openAPI&amp;start=api</link>
+				<author>모건 하우절 (지은이), 이수경 (옮긴이)</author>
+				<pubDate>2024-02-28</pubDate> 
+				<description>《돈의 심리학》의 저자 모건 하우절이 3년 만에 세상에 내놓은 신작.‘절대 변하지 않는 것들에 대한 23가지 이야기’를 전한다. 이번 책은 돈과 투자 영역은 물론이고, 인간의 본성과 세상의 이치에 관한 이야기를 두루 다루어 한층 더 다층적이고 복합적인 메시지를 담아냈다는 평가를 받는다.</description>
+				<isbn>K272938139</isbn>
+				<isbn13>9791198517425</isbn13>
+				<priceSales>22500</priceSales>
+				<priceStandard>25000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1250</mileage>
+				<cover>https://image.aladin.co.kr/product/33406/14/coversum/k272938139_2.jpg</cover>
+				<categoryId>3065</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;경제학/경제일반&gt;경제이야기</categoryName>
+				<publisher>서삼독</publisher>
+				<salesPoint>114575</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 6주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="329386807">
+			    <title>이처럼 사소한 것들</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329386807&amp;partner=openAPI&amp;start=api</link>
+				<author>클레어 키건 (지은이), 홍한별 (옮긴이)</author>
+				<pubDate>2023-11-27</pubDate> 
+				<description>2023년 4월 국내에 처음 소개된 『맡겨진 소녀』로 국내 문인들과 문학 독자들의 열렬한 환호를 받은 클레어 키건의 대표작. 자신이 속한 사회 공동체의 은밀한 공모를 발견하고 자칫 모든 걸 잃을 수 있는 선택 앞에서 고뇌하는 한 남자의 내면을 그린 작품이다.</description>
+				<isbn>K472936042</isbn>
+				<isbn13>9791130646381</isbn13>
+				<priceSales>12420</priceSales>
+				<priceStandard>13800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>690</mileage>
+				<cover>https://image.aladin.co.kr/product/32938/68/coversum/k472936042_2.jpg</cover>
+				<categoryId>52652</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;세계의 소설&gt;아일랜드소설</categoryName>
+				<publisher>다산책방</publisher>
+				<salesPoint>248054</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="333598743">
+			    <title>좋은 문장 표현에서 문장부호까지! - 국립국어원 온라인가나다 선생님의 문장 교실</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333598743&amp;partner=openAPI&amp;start=api</link>
+				<author>이수연 (지은이)</author>
+				<pubDate>2024-02-15</pubDate> 
+				<description>국립국어원 온라인가나다 이수연 선생님의 문장 교실 《좋은 문장 표현에서 문장부호까지》. 정확히 이렇게 말하고 싶은데 자꾸 어정쩡하고 어색하게 표현하게 될 때 그 해결책을 찾을 수 있게 도와주는 책이다.</description>
+				<isbn>K072938909</isbn>
+				<isbn13>9791193270134</isbn13>
+				<priceSales>16200</priceSales>
+				<priceStandard>18000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>900</mileage>
+				<cover>https://image.aladin.co.kr/product/33359/87/coversum/k072938909_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>마리북스</publisher>
+				<salesPoint>34893</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="333974298">
+			    <title>무례한 친구가 생겼어요 - 건강한 우정을 위한 경계를 설정하는 법</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333974298&amp;partner=openAPI&amp;start=api</link>
+				<author>크리스티나 퍼니발 (지은이), 케이티 드와이어 (그림), 이은경 (옮긴이)</author>
+				<pubDate>2024-02-21</pubDate> 
+				<description>‘무례함’의 의미와 친구 사이에 꼭 필요한 ‘경계’의 개념에 대해서 가르쳐 준다. 경계의 개념을 배우면 아이는 괴롭힘을 예방하고 대처하는 방법을 알게 된다. 건강한 우정을 바탕으로 단단하게 성장할 수 있다. 또한 자신만의 경계를 설정해 보는 것은 자기조절력, 자존감, 자기주도성 등을 키우는 데에도 커다란 도움이 된다.</description>
+				<isbn>K292938510</isbn>
+				<isbn13>9791193506332</isbn13>
+				<priceSales>15030</priceSales>
+				<priceStandard>16700</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>830</mileage>
+				<cover>https://image.aladin.co.kr/product/33397/42/coversum/k292938510_1.jpg</cover>
+				<categoryId>35140</categoryId>
+				<categoryName>국내도서&gt;유아&gt;그림책&gt;나라별 그림책&gt;외국 그림책</categoryName>
+				<publisher>리틀포레스트</publisher>
+				<salesPoint>24841</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="328923887">
+			    <title>나는 메트로폴리탄 미술관의 경비원입니다 - 경이로운 세계 속으로 숨어버린 한 남자의 이야기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328923887&amp;partner=openAPI&amp;start=api</link>
+				<author>패트릭 브링리 (지은이), 김희정, 조현주 (옮긴이)</author>
+				<pubDate>2023-11-24</pubDate> 
+				<description>뉴욕 메트로폴리탄 미술관에서 경비원으로 근무했던 패트릭 브링리의 독특하면서도 지적인 회고를 담은 에세이다. 가족의 죽음으로 고통 속에 웅크리고 있던 한 남자가 미술관에서 10년이라는 시간을 보내며 상실감을 극복하고 마침내 세상으로 나아갈 힘을 얻는 여정을 섬세하게 그려냈다.</description>
+				<isbn>K912934840</isbn>
+				<isbn13>9788901276533</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/32892/38/coversum/s402930162_1.jpg</cover>
+				<categoryId>51373</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;외국에세이</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>126870</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 5주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336001556">
+			    <title>찌그러져도 동그라미입니다 - 김창완 에세이</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336001556&amp;partner=openAPI&amp;start=api</link>
+				<author>김창완 (지은이)</author>
+				<pubDate>2024-03-28</pubDate> 
+				<description>한국 대중문화에 가장 독보적인 자취를 남긴 뮤지션 김창완의 에세이가 웅진지식하우스에서 출간된다. 김창완이 라디오 청취자들에게 답한 편지와 오프닝을 엮었다. 손으로 그린 47개의 동그라미 중 두어 개만 그럴듯한 것처럼, 회사생활도 47일 중 이틀이 동그라면 동그란 것이라고 위로한 편지는 SNS와 블로그에 오랫동안 화제가 되었다.</description>
+				<isbn>890128068X</isbn>
+				<isbn13>9788901280684</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33600/15/coversum/890128068x_2.jpg</cover>
+				<categoryId>52905</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;명사에세이&gt;방송연예인에세이</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>46053</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="332732565">
+			    <title>아이는 무엇으로 자라는가 - 세계적 가족 심리학자 버지니아 사티어의 15가지 양육 법칙</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332732565&amp;partner=openAPI&amp;start=api</link>
+				<author>버지니아 사티어 (지은이), 강유리 (옮긴이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>세계적 가족 심리학자, 가족치료의 1인자 버지니아 사티어의 역작이자 누적 부수 100만 부를 돌파한 책 『아이는 무엇으로 자라는가가 국내에서 출간되었다. 유수의 언론과 아동, 청소년 전문 교육자와 심리학자들이 극찬하는 이 책은 1988년에 첫 출간된 이후 전 세계 15개국에 번역 출간되었으며, 오랫동안 아마존 베스트셀러의 자리를 지켜온 전설적인 육아의 바이블로 통한다.</description>
+				<isbn>K302938773</isbn>
+				<isbn13>9791193506202</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/33273/25/coversum/k302938773_2.jpg</cover>
+				<categoryId>73196</categoryId>
+				<categoryName>국내도서&gt;좋은부모&gt;부모교육</categoryName>
+				<publisher>포레스트북스</publisher>
+				<salesPoint>52649</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 7주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="330109498">
+			    <title>ETS 토익 정기시험 기출문제집 1000 Vol. 4 Reading (리딩) - 토익 기출문제 독점출간/ ALL NEW 최신기출 10회 수록/ 문제집+해설집+무료 동영상 강의+기출어휘 단어장(PDF)+APP 모바일 학습</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330109498&amp;partner=openAPI&amp;start=api</link>
+				<author>ETS (엮은이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>정기시험 최신 기출문제 10세트가 수록되어 있다. 시험에 나온 최신 기출문제로 실전 감각을 키워 시험에 확실하게 대비할 수 있다. 교재 내 QR코드는 해당 회차의 무료 동영상 강의로 연결된다. 오답률 높은 고난도 문항을 친절한 해설 강의와 함께 수록하였다.</description>
+				<isbn>8917239501</isbn>
+				<isbn13>9788917239508</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33010/94/coversum/8917239501_1.jpg</cover>
+				<categoryId>49854</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;토익&gt;Reading</categoryName>
+				<publisher>(주)YBM(와이비엠)</publisher>
+				<salesPoint>203485</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 18주</bestDuration><bestRank>9</bestRank><seriesInfo><seriesId>625613</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=625613&amp;partner=openAPI</seriesLink><seriesName>ETS 토익 정기시험 기출문제집 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="336061304">
+			    <title>사카모토 데이즈 14 (더블특전판) - 일러스트 포스트 카드 (초판 부록) +  SNS 프로필 피드 스티커 (선착순 한정 부록)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336061304&amp;partner=openAPI&amp;start=api</link>
+				<author>스즈키 유우토 (지은이)</author>
+				<pubDate>2024-03-29</pubDate> 
+				<description>ORDER 킨다카와 함께 요인 경호를 맡은 젊은 날의 사카모토, 나구모, 아카오, 그리고 우즈키. 독술사의 공격에 동료들이 위기를 맞은 가운데, 사카모토는?! 한편, 킨다카 살해 밀명을 받고 고뇌하던 우즈키는 비극의 톱니바퀴가 굴러가기 시작한다!</description>
+				<isbn>K852939706</isbn>
+				<isbn13></isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/33606/13/coversum/k852939706_1.jpg</cover>
+				<categoryId>2552</categoryId>
+				<categoryName>국내도서&gt;만화&gt;코믹/명랑만화</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>4425</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

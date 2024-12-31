@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=6&amp;Week=1&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:41 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=6;Week=1</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="340152805">
+			    <title>선재 업고 튀어 1~2 세트 - 전2권 - 이시은 작가, 변우석·김혜윤·송건희·이승협 배우 사인, 메시지 수록, 양장</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340152805&amp;partner=openAPI&amp;start=api</link>
+				<author>이시은 (지은이)</author>
+				<pubDate>2024-07-22</pubDate> 
+				<description>tvN 드라마 '선재 업고 튀어' 작가판 무삭제 대본집으로, 이시은 작가의 촘촘한 구성과 상세한 지문, 따듯한 대사들을 원본 그대로 확인할 수 있다. 더불어, ‘작가의 에필로그’는 대본집 출간이 결정된 후 작가가 새로 집필한 씬으로 팬들에게 큰 선물이 될 것이다.</description>
+				<isbn>K982931060</isbn>
+				<isbn13>9791168030817</isbn13>
+				<priceSales>45000</priceSales>
+				<priceStandard>50000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>2500</mileage>
+				<cover>https://image.aladin.co.kr/product/34015/28/coversum/k982931060_1.jpg</cover>
+				<categoryId>51054</categoryId>
+				<categoryName>국내도서&gt;예술/대중문화&gt;영화/드라마&gt;시나리오/시나리오작법</categoryName>
+				<publisher>북로그컴퍼니</publisher>
+				<salesPoint>58393</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 2주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340343369">
+			    <title>쿠이 료코 낙서집 데이드림 아워 - S코믹스</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340343369&amp;partner=openAPI&amp;start=api</link>
+				<author>쿠이 료코 (지은이), 김민재 (옮긴이)</author>
+				<pubDate>2024-06-04</pubDate> 
+				<description>만화가 쿠이 료코가《던전밥》을 집필하는 동안 그려둔 수많은 만화, 일러스트, 스케치를 수록했다. 만화잡지 하루타의 부록 소책자에 수록됐던 작품은 물론, 여기서만 볼 수 있는 최초 공개 일러스트도 다수 게재했다.</description>
+				<isbn>K222931261</isbn>
+				<isbn13>9791138483162</isbn13>
+				<priceSales>18000</priceSales>
+				<priceStandard>20000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1000</mileage>
+				<cover>https://image.aladin.co.kr/product/34034/33/coversum/k222931261_1.jpg</cover>
+				<categoryId>2564</categoryId>
+				<categoryName>국내도서&gt;만화&gt;만화그리기와 읽기&gt;만화작법/일러스트</categoryName>
+				<publisher>㈜소미미디어</publisher>
+				<salesPoint>20666</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>2</bestRank><seriesInfo><seriesId>957703</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=957703&amp;partner=openAPI</seriesLink><seriesName>S코믹스 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340411790">
+			    <title>룬의 아이들 - 블러디드 7</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340411790&amp;partner=openAPI&amp;start=api</link>
+				<author>전민희 (지은이)</author>
+				<pubDate>2024-05-30</pubDate> 
+				<description>『룬의 아이들 - 윈터러』에 이은 2부 『룬의 아이들 - 데모닉』이 완결된 지 11년 만의 신작이다. 1부 ‘룬의 아이들’ 시리즈 3부에 해당하는 이번 작품은 실종된 오빠에 얽힌 비밀과 맞서 분투하는 공녀를 중심으로 ‘블러디드’라는 힘에 관한 이야기를 다루고 있다.</description>
+				<isbn>8954698905</isbn>
+				<isbn13>9788954698900</isbn13>
+				<priceSales>15300</priceSales>
+				<priceStandard>17000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>850</mileage>
+				<cover>https://image.aladin.co.kr/product/34041/17/coversum/8954698905_1.jpg</cover>
+				<categoryId>51122</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;판타지/환상문학&gt;한국판타지/환상소설</categoryName>
+				<publisher>엘릭시르</publisher>
+				<salesPoint>10451</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>소설/시/희곡 100위 4주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="85887573">
+			    <title>리틀 라이프 1</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=85887573&amp;partner=openAPI&amp;start=api</link>
+				<author>한야 야나기하라 (지은이), 권진아 (옮긴이)</author>
+				<pubDate>2016-06-16</pubDate> 
+				<description>영미권을 대표하는 문학상 맨부커상과 전미도서상 최종후보에 나란히 오르고, 「뉴욕타임스」, 「워싱턴포스트」, 「가디언」, 「월스트리트저널」을 비롯한 25개 언론사에서 '올해의 책'으로 꼽은 화제작.</description>
+				<isbn>8952776372</isbn>
+				<isbn13>9788952776372</isbn13>
+				<priceSales>13320</priceSales>
+				<priceStandard>14800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>740</mileage>
+				<cover>https://image.aladin.co.kr/product/8588/75/coversum/8952776372_3.jpg</cover>
+				<categoryId>50919</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;영미소설</categoryName>
+				<publisher>시공사</publisher>
+				<salesPoint>65260</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="85887803">
+			    <title>리틀 라이프 2</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=85887803&amp;partner=openAPI&amp;start=api</link>
+				<author>한야 야나기하라 (지은이), 권진아 (옮긴이)</author>
+				<pubDate>2016-06-16</pubDate> 
+				<description>영미권을 대표하는 문학상 맨부커상과 전미도서상 최종후보에 나란히 오르고, 「뉴욕타임스」, 「워싱턴포스트」, 「가디언」, 「월스트리트저널」을 비롯한 25개 언론사에서 '올해의 책'으로 꼽은 화제작.</description>
+				<isbn>8952776380</isbn>
+				<isbn13>9788952776389</isbn13>
+				<priceSales>13320</priceSales>
+				<priceStandard>14800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>740</mileage>
+				<cover>https://image.aladin.co.kr/product/8588/78/coversum/8952776380_3.jpg</cover>
+				<categoryId>50919</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;영미소설</categoryName>
+				<publisher>시공사</publisher>
+				<salesPoint>52598</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="335627754">
+			    <title>나를 소모하지 않는 현명한 태도에 관하여</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335627754&amp;partner=openAPI&amp;start=api</link>
+				<author>마티아스 뇔케 (지은이), 이미옥 (옮긴이)</author>
+				<pubDate>2024-03-10</pubDate> 
+				<description>모든 것이 과하게 요구되고, 요란하게 소비되는 시대에 ‘더 현명한 삶의 방식’은 무엇인지를 통찰한 책이다. 독일의 언론인이자 베스트셀러 작가이며 문학과 커뮤니케이션 과학, 심리학 등을 두루 공부한 마티아스 뇔케 박사는 특유의 재치와 명쾌함이 돋이는 글쓰기로 ‘보여주기 위해 극대화하는 삶이 아닌 조용히 나를 지키는 삶’으로 독자들을 안내한다.</description>
+				<isbn>K882939888</isbn>
+				<isbn13>9791198682505</isbn13>
+				<priceSales>16020</priceSales>
+				<priceStandard>17800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>890</mileage>
+				<cover>https://image.aladin.co.kr/product/33562/77/coversum/k882939888_1.jpg</cover>
+				<categoryId>2952</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;인간관계&gt;인간관계</categoryName>
+				<publisher>퍼스트펭귄</publisher>
+				<salesPoint>74974</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 12주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="340318833">
+			    <title>괴수 8호 12 (트리플 특장판) - 초판한정 일러스트 카드 + 수량 한정 호시나家 일러스트 카드 + 스페셜 일러스트 카드</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340318833&amp;partner=openAPI&amp;start=api</link>
+				<author>마츠모토 나오야 (지은이), 유유리 (옮긴이)</author>
+				<pubDate>2024-05-30</pubDate> 
+				<description>식별 클래스 괴수의 습격을 받은 동방 사단 에어리어. 나루미와 키코루는 각개 격파에 성공하지만, 호시나의 대전 상대는 시작품 10호의 완성품인 11호. 게다가 호시나가 장착하는 식별 괴수 병기는 해방 전력이 83% 이상 올라가지 않아 고전을 면치 못하는데?!</description>
+				<isbn>K192931165</isbn>
+				<isbn13>9791136787309</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/34031/88/coversum/k192931165_1.jpg</cover>
+				<categoryId>3724</categoryId>
+				<categoryName>국내도서&gt;만화&gt;소년만화&gt;액션</categoryName>
+				<publisher>서울미디어코믹스(서울문화사)</publisher>
+				<salesPoint>14423</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 7주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339888674">
+			    <title>원피스 108 - 죽는 편이 나은 세계</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339888674&amp;partner=openAPI&amp;start=api</link>
+				<author>오다 에이치로 (지은이)</author>
+				<pubDate>2024-05-29</pubDate> 
+				<description>미래섬에서 탈출을 꾀하는 루피 일행. 그러나 해군의 대선단이 섬을 에워싼다. 이를 이끄는 자는 대장 '키자루'!! 그 안에는 오로성의 모습도 있고, 일찍이 없던 규모의 전투가 벌어질 예감이 소용돌이치는데...</description>
+				<isbn>K782930542</isbn>
+				<isbn13>9791172039448</isbn13>
+				<priceSales>4950</priceSales>
+				<priceStandard>5500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>270</mileage>
+				<cover>https://image.aladin.co.kr/product/33988/86/coversum/k782930542_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>32266</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="339735213">
+			    <title>나의 히어로 아카데미아 40 (트리플 특장판) - (초판한정) ‘아머드 올마이트’ 일러스트 카드 + (선착순 한정) 아크릴 일러스트 보드 + 캐릭터 북마크</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339735213&amp;partner=openAPI&amp;start=api</link>
+				<author>호리코시 코헤이 (지은이)</author>
+				<pubDate>2024-05-31</pubDate> 
+				<description>내겐 밀리오 같은 용기나, 하도 같은 활약은 할 수 없을지도 몰라. 그렇다 해도 자신을 믿고 동료들과 함께 싸우자! 일어서라! 힘을 잃고도 여전히 인지를 초월한 AFO을 억누르고 있는, 줄곧 동경해온 올마이트의 저 커다란 뒷모습에 지지 않도록!</description>
+				<isbn>K602930443</isbn>
+				<isbn13></isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/33973/52/coversum/k602930443_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>서울미디어코믹스(서울문화사)</publisher>
+				<salesPoint>19940</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="338990710">
+			    <title>두 사람의 인터내셔널</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338990710&amp;partner=openAPI&amp;start=api</link>
+				<author>김기태 (지은이)</author>
+				<pubDate>2024-05-15</pubDate> 
+				<description>2022년 동아일보 신춘문예에서 “근래 보기 드문 강력하고 단단한 작품”, “처음부터 끝까지 단숨에 읽히게 만드는 흡인력이 돋보인다”는 평을 받으며 데뷔한 김기태의 첫 소설집 『두 사람의 인터내셔널』이 출간되었다.</description>
+				<isbn>8954697941</isbn>
+				<isbn13>9788954697941</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/33899/7/coversum/8954697941_3.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>69396</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 3주</bestDuration><bestRank>10</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

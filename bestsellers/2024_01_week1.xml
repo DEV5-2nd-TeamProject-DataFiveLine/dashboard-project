@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=1&amp;Week=1&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:40 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=1;Week=1</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="328923887">
+			    <title>나는 메트로폴리탄 미술관의 경비원입니다 - 경이로운 세계 속으로 숨어버린 한 남자의 이야기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328923887&amp;partner=openAPI&amp;start=api</link>
+				<author>패트릭 브링리 (지은이), 김희정, 조현주 (옮긴이)</author>
+				<pubDate>2023-11-24</pubDate> 
+				<description>뉴욕 메트로폴리탄 미술관에서 경비원으로 근무했던 패트릭 브링리의 독특하면서도 지적인 회고를 담은 에세이다. 가족의 죽음으로 고통 속에 웅크리고 있던 한 남자가 미술관에서 10년이라는 시간을 보내며 상실감을 극복하고 마침내 세상으로 나아갈 힘을 얻는 여정을 섬세하게 그려냈다.</description>
+				<isbn>K912934840</isbn>
+				<isbn13>9788901276533</isbn13>
+				<priceSales>15750</priceSales>
+				<priceStandard>17500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>870</mileage>
+				<cover>https://image.aladin.co.kr/product/32892/38/coversum/s402930162_1.jpg</cover>
+				<categoryId>51373</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;외국에세이</categoryName>
+				<publisher>웅진지식하우스</publisher>
+				<salesPoint>126870</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 5주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="323615985">
+			    <title>마흔에 읽는 쇼펜하우어 - 마음의 위기를 다스리는 철학 수업</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323615985&amp;partner=openAPI&amp;start=api</link>
+				<author>강용수 (지은이)</author>
+				<pubDate>2023-09-07</pubDate> 
+				<description>인생의 의미를 끊임없이 고민한 철학자, 아르투어 쇼펜하우어의 깨달음과 철학적 사유 중 현시대 우리가 고통을 해소하고 마음의 위기를 극복하는 데 도움이 될 내용을 30가지로 정리했다.</description>
+				<isbn>K592935565</isbn>
+				<isbn13>9791192300818</isbn13>
+				<priceSales>15300</priceSales>
+				<priceStandard>17000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>850</mileage>
+				<cover>https://image.aladin.co.kr/product/32361/59/coversum/k592935565_2.jpg</cover>
+				<categoryId>51473</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;서양철학&gt;근대철학&gt;쇼펜하우어</categoryName>
+				<publisher>유노북스</publisher>
+				<salesPoint>123390</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>7</customerReviewRank>
+                
+                <bestDuration>종합 1위 4주</bestDuration><bestRank>2</bestRank><seriesInfo><seriesId>1107275</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1107275&amp;partner=openAPI</seriesLink><seriesName>마흔에 읽는 서양 고전 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="309295168">
+			    <title>세이노의 가르침 (화이트 에디션) - 피보다 진하게 살아라</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309295168&amp;partner=openAPI&amp;start=api</link>
+				<author>세이노(SayNo) (지은이)</author>
+				<pubDate>2023-03-02</pubDate> 
+				<description>2000년부터 발표된 그의 주옥같은 글들. 독자들이 자발적으로 만든 제본서는 물론, 전자책과 앱까지 나왔던 《세이노의 가르침》이 드디어 전국 서점에서 독자들을 마주한다. 여러 판본을 모으고 저자의 확인을 거쳐 최근 생각을 추가로 수록하였다. 정식 출간본에만 추가로 수록된 글들은 목차와 본문에 별도 표시하였다.</description>
+				<isbn>K732831392</isbn>
+				<isbn13>9791168473690</isbn13>
+				<priceSales>6480</priceSales>
+				<priceStandard>7200</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>360</mileage>
+				<cover>https://image.aladin.co.kr/product/30929/51/coversum/s662930344_1.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>데이원</publisher>
+				<salesPoint>295330</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 1위 17주</bestDuration><bestRank>3</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="331003597">
+			    <title>원피스 107 - 전설의 영웅</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=331003597&amp;partner=openAPI&amp;start=api</link>
+				<author>오다 에이치로 (지은이)</author>
+				<pubDate>2024-01-15</pubDate> 
+				<description>역사를 깊이 알고 만 대가로 CPO에게 목숨이 노려지는 베가펑크! 루피 일행에게 도움을 구하면서 함께 섬을 탈출하기 위해 움직이나, 스텔라(본체)가 행방불명되는데. 섬에선 대체 무슨 일이 벌어지고 있는지?!</description>
+				<isbn>K872937718</isbn>
+				<isbn13>9791171723331</isbn13>
+				<priceSales>4950</priceSales>
+				<priceStandard>5500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>270</mileage>
+				<cover>https://image.aladin.co.kr/product/33100/35/coversum/k872937718_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>26585</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 8주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="329386807">
+			    <title>이처럼 사소한 것들</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329386807&amp;partner=openAPI&amp;start=api</link>
+				<author>클레어 키건 (지은이), 홍한별 (옮긴이)</author>
+				<pubDate>2023-11-27</pubDate> 
+				<description>2023년 4월 국내에 처음 소개된 『맡겨진 소녀』로 국내 문인들과 문학 독자들의 열렬한 환호를 받은 클레어 키건의 대표작. 자신이 속한 사회 공동체의 은밀한 공모를 발견하고 자칫 모든 걸 잃을 수 있는 선택 앞에서 고뇌하는 한 남자의 내면을 그린 작품이다.</description>
+				<isbn>K472936042</isbn>
+				<isbn13>9791130646381</isbn13>
+				<priceSales>12420</priceSales>
+				<priceStandard>13800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>690</mileage>
+				<cover>https://image.aladin.co.kr/product/32938/68/coversum/k472936042_2.jpg</cover>
+				<categoryId>52652</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;세계의 소설&gt;아일랜드소설</categoryName>
+				<publisher>다산책방</publisher>
+				<salesPoint>248054</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="323548193">
+			    <title>퓨처 셀프 - 현재와 미래가 달라지는 놀라운 혁명</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323548193&amp;partner=openAPI&amp;start=api</link>
+				<author>벤저민 하디 (지은이), 최은아 (옮긴이)</author>
+				<pubDate>2023-08-30</pubDate> 
+				<description>‘미래의 나는 어떤 모습일까?’라는 질문은 우리가 인생에서 쉽게 놓치는 중요한 진실에 이르게 한다. 즉, 미래의 나와 연결될수록 현재 더 나은 삶을 살게 된다는 것이다. 이 책은 미래의 내가 어떤 모습일지 깊이 생각해보고, 지금 그 사람이 되는 방법을 구체적으로 알려주는 인생 지침서이다.</description>
+				<isbn>K342935366</isbn>
+				<isbn13>9791192389325</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>구판절판</stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/32354/81/coversum/k342935366_1.jpg</cover>
+				<categoryId>70216</categoryId>
+				<categoryName>국내도서&gt;자기계발&gt;성공&gt;성공학</categoryName>
+				<publisher>상상스퀘어</publisher>
+				<salesPoint>142450</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 1위 3주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="325850674">
+			    <title>세상은 이야기로 만들어졌다 - 신화·거짓말·유토피아</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=325850674&amp;partner=openAPI&amp;start=api</link>
+				<author>자미라 엘 우아실, 프리데만 카릭 (지은이), 김현정 (옮긴이)</author>
+				<pubDate>2023-10-16</pubDate> 
+				<description>2022년 독일 독서문화진흥재단에서 선정한 최고의 논픽션 중 한 권에 들어갔던 이 책에서 저자들은 이야기가 지닌 상반된 영향력을 추적한다. 그들은 어떤 이야기가 오늘날 우리를 위험에 빠뜨리는지 그리고 우리 세상을 유지하기 위해 새로운 이야기가 왜 절박한지를 잘 풀어놓고 있다.</description>
+				<isbn>K632935343</isbn>
+				<isbn13>9791192953151</isbn13>
+				<priceSales>24300</priceSales>
+				<priceStandard>27000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1350</mileage>
+				<cover>https://image.aladin.co.kr/product/32585/6/coversum/k632935343_1.jpg</cover>
+				<categoryId>51378</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;교양 인문학</categoryName>
+				<publisher>원더박스</publisher>
+				<salesPoint>32809</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 2주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="323553082">
+			    <title>도시와 그 불확실한 벽</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323553082&amp;partner=openAPI&amp;start=api</link>
+				<author>무라카미 하루키 (지은이), 홍은주 (옮긴이)</author>
+				<pubDate>2023-09-06</pubDate> 
+				<description>고교생 에세이 대회에서 만나 서로 좋아하게 된 그들은, 화창한 여름날 순수한 한쌍의 소년과 소녀였다. 그러던 어느 날, 소녀가 알 수 없는 말을 한다. “지금 여기 있는 나는 진짜 내가 아니야. 진짜 나는 높은 벽으로 둘러싸인 그 도시에 살아.” 소년은 소녀가 들려주는 도시 이야기에 빠져든다.</description>
+				<isbn>K162931235</isbn>
+				<isbn13>9788954699075</isbn13>
+				<priceSales>17550</priceSales>
+				<priceStandard>19500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>절판</stockStatus>
+				<mileage>970</mileage>
+				<cover>https://image.aladin.co.kr/product/32355/30/coversum/s882937331_1.jpg</cover>
+				<categoryId>50998</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;일본소설&gt;1950년대 이후 일본소설</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>162411</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 4주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="330109498">
+			    <title>ETS 토익 정기시험 기출문제집 1000 Vol. 4 Reading (리딩) - 토익 기출문제 독점출간/ ALL NEW 최신기출 10회 수록/ 문제집+해설집+무료 동영상 강의+기출어휘 단어장(PDF)+APP 모바일 학습</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330109498&amp;partner=openAPI&amp;start=api</link>
+				<author>ETS (엮은이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>정기시험 최신 기출문제 10세트가 수록되어 있다. 시험에 나온 최신 기출문제로 실전 감각을 키워 시험에 확실하게 대비할 수 있다. 교재 내 QR코드는 해당 회차의 무료 동영상 강의로 연결된다. 오답률 높은 고난도 문항을 친절한 해설 강의와 함께 수록하였다.</description>
+				<isbn>8917239501</isbn>
+				<isbn13>9788917239508</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33010/94/coversum/8917239501_1.jpg</cover>
+				<categoryId>49854</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;토익&gt;Reading</categoryName>
+				<publisher>(주)YBM(와이비엠)</publisher>
+				<salesPoint>203485</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 18주</bestDuration><bestRank>9</bestRank><seriesInfo><seriesId>625613</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=625613&amp;partner=openAPI</seriesLink><seriesName>ETS 토익 정기시험 기출문제집 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="330109271">
+			    <title>ETS 토익 정기시험 기출문제집 1000 Vol. 4 Listening (리스닝) - 토익 기출문제 독점출간/ ALL NEW 최신기출 10회 수록/ 문제집+해설집+무료 정기시험 성우 MP3+무료 동영상 강의+기출어휘 단어장(PDF)+APP 모바일 학습</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330109271&amp;partner=openAPI&amp;start=api</link>
+				<author>ETS (엮은이)</author>
+				<pubDate>2023-12-18</pubDate> 
+				<description>정기시험 최신 기출문제 10세트가 수록되어 있다. 시험에 나온 기출문제로 실전 감각을 키워 시험에 확실하게 대비하자! 수록된 10세트의 LC 음원은 모두 정기시험 성우의 음원이다. 시험장에서 듣게 될 음성으로 공부하면 까다로운 영국식, 호주식 발음도 걱정 없다.</description>
+				<isbn>8917239498</isbn>
+				<isbn13>9788917239492</isbn13>
+				<priceSales>17820</priceSales>
+				<priceStandard>19800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>990</mileage>
+				<cover>https://image.aladin.co.kr/product/33010/92/coversum/8917239498_1.jpg</cover>
+				<categoryId>49855</categoryId>
+				<categoryName>국내도서&gt;외국어&gt;토익&gt;Listening</categoryName>
+				<publisher>(주)YBM(와이비엠)</publisher>
+				<salesPoint>186515</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 10위 11주</bestDuration><bestRank>10</bestRank><seriesInfo><seriesId>625613</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=625613&amp;partner=openAPI</seriesLink><seriesName>ETS 토익 정기시험 기출문제집 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>

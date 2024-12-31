@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 베스트셀러 리스트 - 국내도서</title>
+    <link>https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&amp;BranchType=1&amp;Year=2024&amp;Month=11&amp;Week=2&amp;partner=openAPI</link>
+    <logo>http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif</logo>    
+	<pubDate>Tue, 31 Dec 2024 06:11:43 GMT</pubDate>
+	<totalResults>1000</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>10</itemsPerPage>
+    <query>QueryType=BESTSELLER;SearchTarget=Book;Year=2024;Month=11;Week=2</query>
+    <version>20131101</version>    
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>국내도서</searchCategoryName>
+    
+			<item itemId="40869703">
+			    <title>소년이 온다 - 2024 노벨문학상 수상작가</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40869703&amp;partner=openAPI&amp;start=api</link>
+				<author>한강 (지은이)</author>
+				<pubDate>2014-05-19</pubDate> 
+				<description>섬세한 감수성과 치밀한 문장으로 인간 존재의 본질을 탐구해온 작가 한강의 여섯번째 장편소설. '상처의 구조에 대한 투시와 천착의 서사'를 통해 한강만이 풀어낼 수 있는 방식으로 1980년 5월을 새롭게 조명한다.</description>
+				<isbn>K662930932</isbn>
+				<isbn13>9788936434120</isbn13>
+				<priceSales>13500</priceSales>
+				<priceStandard>15000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>750</mileage>
+				<cover>https://image.aladin.co.kr/product/4086/97/coversum/8936434128_2.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>창비</publisher>
+				<salesPoint>1525715</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 1위 11주</bestDuration><bestRank>1</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="278770576">
+			    <title>작별하지 않는다 - 2024 노벨문학상 수상작가, 한강 장편소설</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278770576&amp;partner=openAPI&amp;start=api</link>
+				<author>한강 (지은이)</author>
+				<pubDate>2021-09-09</pubDate> 
+				<description>2016년 &amp;lt;채식주의자&amp;gt;로 인터내셔널 부커상을 수상하고 2018년 &amp;lt;흰&amp;gt;으로 같은 상 최종 후보에 오른 한강 작가의 5년 만의 장편소설. 2019년 겨울부터 이듬해 봄까지 계간 &amp;lt;문학동네&amp;gt;에 전반부를 연재하며 큰 관심을 모은 작품이다.</description>
+				<isbn>8954682154</isbn>
+				<isbn13>9788954682152</isbn13>
+				<priceSales>15120</priceSales>
+				<priceStandard>16800</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>840</mileage>
+				<cover>https://image.aladin.co.kr/product/27877/5/coversum/8954682154_3.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>1010315</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 1위 2주</bestDuration><bestRank>2</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="291370219">
+			    <title>채식주의자 (리마스터판) - 2024 노벨문학상 수상작가</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291370219&amp;partner=openAPI&amp;start=api</link>
+				<author>한강 (지은이)</author>
+				<pubDate>2022-03-28</pubDate> 
+				<description>2016년 인터내셔널 부커상을 수상하며 한국문학의 입지를 한단계 확장시킨 한강의 장편소설. 상처받은 영혼의 고통과 식물적 상상력의 강렬한 결합을 정교한 구성과 흡인력 있는 문체로 보여주며 섬뜩한 아름다움의 미학을 한강만의 방식으로 완성한 역작이다.</description>
+				<isbn>8936434594</isbn>
+				<isbn13>9788936434595</isbn13>
+				<priceSales>13500</priceSales>
+				<priceStandard>15000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>750</mileage>
+				<cover>https://image.aladin.co.kr/product/29137/2/coversum/8936434594_2.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>창비</publisher>
+				<salesPoint>920126</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>8</customerReviewRank>
+                
+                <bestDuration>종합 10위 12주</bestDuration><bestRank>3</bestRank><seriesInfo><seriesId>1095569</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1095569&amp;partner=openAPI</seriesLink><seriesName>창비 리마스터 소설선 </seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="351631229">
+			    <title>트럼프 2.0 시대 - 글로벌 대격변이 시작된다</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351631229&amp;partner=openAPI&amp;start=api</link>
+				<author>박종훈 (지은이)</author>
+				<pubDate>2024-11-08</pubDate> 
+				<description>세계 경제사의 현장에서 함께 뛰어온 박종훈 경제 전문가가 정확한 분석과 대비를 통해 트럼프 리스크를 트럼프 기회로 바꿀 수 있는 방안을 제시한다. 더불어 트럼프 정책이 어떤 나비 효과를 불러올지, 그리고 그 안에서 어떠한 기회를 찾을 수 있을지 정확하게 분석한다.</description>
+				<isbn>K362934121</isbn>
+				<isbn13>9791198987600</isbn13>
+				<priceSales>18000</priceSales>
+				<priceStandard>20000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>1000</mileage>
+				<cover>https://image.aladin.co.kr/product/35163/12/coversum/k362934121_1.jpg</cover>
+				<categoryId>3060</categoryId>
+				<categoryName>국내도서&gt;경제경영&gt;경제학/경제일반&gt;경제사/경제전망&gt;세계 경제사/경제전망</categoryName>
+				<publisher>글로퍼스</publisher>
+				<salesPoint>131725</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 4주</bestDuration><bestRank>4</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="351975355">
+			    <title>내가 키운 S급들 1~5 + 굿즈 패키지 세트 - 전5권</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351975355&amp;partner=openAPI&amp;start=api</link>
+				<author>근서 (지은이)</author>
+				<pubDate>2024-12-26</pubDate> 
+				<description>“야, 소원석. 시간을 돌리는 건 되냐?” 내 말에 대답하듯 붉은 구슬이 빛나기 시작했다. 죽은 사람은 못 살리면서 이건 되냐. 시간 돌리는 게 더 대단해 보이는데, 웃기네. “그럼 내가 여기 들어오기 전, 아니다. 그냥 아예 오 년쯤 전으로 돌려줘. 기억은 가진 채로. 이번엔 얌전히 살게.”</description>
+				<isbn>K182934520</isbn>
+				<isbn13>9791139640533</isbn13>
+				<priceSales>90000</priceSales>
+				<priceStandard>100000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>5000</mileage>
+				<cover>https://image.aladin.co.kr/product/35197/53/coversum/k182934520_1.jpg</cover>
+				<categoryId>51122</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;판타지/환상문학&gt;한국판타지/환상소설</categoryName>
+				<publisher>JAYPLEMEDIA</publisher>
+				<salesPoint>33120</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>소설/시/희곡 10위 2주</bestDuration><bestRank>5</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="143220344">
+			    <title>흰 - 2024 노벨문학상 수상작가, 한강 소설</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=143220344&amp;partner=openAPI&amp;start=api</link>
+				<author>한강 (지은이), 최진혁 (사진)</author>
+				<pubDate>2018-04-25</pubDate> 
+				<description>2018년 봄, 한강 작가의 소설 &amp;lt;흰&amp;gt;을 새롭게 선보인다. 이 년 전 오월에 세상에 나와 빛의 겹겹 오라기로 둘러싸인 적 있던 그 &amp;lt;흰&amp;gt;에 새 옷을 입히게 된 건 소설 발간에 즈음해 행했던 작가의 퍼포먼스가 글과 함께 배었으면 하는 바람에서였다.</description>
+				<isbn>8954651135</isbn>
+				<isbn13>9788954651134</isbn13>
+				<priceSales>13050</priceSales>
+				<priceStandard>14500</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>720</mileage>
+				<cover>https://image.aladin.co.kr/product/14322/3/coversum/8954651135_3.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>331629</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 12주</bestDuration><bestRank>6</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="351748125">
+			    <title>도쿄 에일리언즈 9 (트리플 특장판) - 초판한정 특전 3종 (아크릴 일러스트 카드 + 스페셜 일러스트 카드 + PP 필름 카드)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351748125&amp;partner=openAPI&amp;start=api</link>
+				<author>NAOE (지은이), 박소현 (옮긴이)</author>
+				<pubDate>2024-11-07</pubDate> 
+				<description>우주인에 의한 지구인 납치, 유괴 사건이 빈번히 발생한다. 사건의 뒤에선 「어둠의 경매 조직」이 암약하며, 인신매매를 행하고 있었다. 피해자로 잡혀간 군지를 구출하기 위해 텐쿠바시는 유엔, 메이메이 정보상 콤비와 접촉한다. 그러나 군지를 구출하려면 텐쿠바시의 목숨까지 위험에 처하게 할 필요가 있었다.</description>
+				<isbn>K142934220</isbn>
+				<isbn13>9791136794437</isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/35174/81/coversum/k142934220_1.jpg</cover>
+				<categoryId>4133</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;액션 판타지</categoryName>
+				<publisher>서울미디어코믹스(서울문화사)</publisher>
+				<salesPoint>31605</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 2주</bestDuration><bestRank>7</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="13849130">
+			    <title>희랍어 시간 - 2024 노벨문학상 수상작가</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13849130&amp;partner=openAPI&amp;start=api</link>
+				<author>한강 (지은이)</author>
+				<pubDate>2011-11-10</pubDate> 
+				<description>&amp;lt;채식주의자&amp;gt;, &amp;lt;내 여자의 열매&amp;gt;, &amp;lt;바람이 분다, 가라&amp;gt;의 작가 한강의 장편소설. 이것은 한 남자와 한 여자의 이야기이다. 다만 한 여자와 한 남자의 기척이 만나는 이야기이다. 말語을 잃어가는 한 여자의 침묵과 눈眼을 잃어가는 한 남자의 빛이 만나는 찰나의 이야기를 그린 소설이다.</description>
+				<isbn>8954616518</isbn>
+				<isbn13>9788954616515</isbn13>
+				<priceSales>11700</priceSales>
+				<priceStandard>13000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>650</mileage>
+				<cover>https://image.aladin.co.kr/product/1384/91/coversum/8954616518_2.jpg</cover>
+				<categoryId>50993</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;한국소설&gt;2000년대 이후 한국소설</categoryName>
+				<publisher>문학동네</publisher>
+				<salesPoint>202955</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 7주</bestDuration><bestRank>8</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="351828376">
+			    <title>사카모토 데이즈 18 (더블특전판) - 일러스트 포스트 카드(초판 부록) + 크리스마스 씰 디자인 스티커(선착순 부록)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351828376&amp;partner=openAPI&amp;start=api</link>
+				<author>스즈키 유우토 (지은이)</author>
+				<pubDate>2024-11-29</pubDate> 
+				<description>나구모의 일격에 치명상을 입은 가쿠. 사투는 결판이 나가까지의 시간 소모전으로 돌입하고... 지하층에서는 x(슬러)와 살연 회장 아사키가 해후. 지상에서는 하루마 &amp; 쿠마노미와 시시바 &amp; 신이 격돌한다. 한편, 동료에서 뒤를 맡기고 x(슬러)에게로 간 사카모토는...!</description>
+				<isbn>K742934226</isbn>
+				<isbn13></isbn13>
+				<priceSales>5400</priceSales>
+				<priceStandard>6000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus>품절</stockStatus>
+				<mileage>300</mileage>
+				<cover>https://image.aladin.co.kr/product/35182/83/coversum/k742934226_1.jpg</cover>
+				<categoryId>2552</categoryId>
+				<categoryName>국내도서&gt;만화&gt;코믹/명랑만화</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<salesPoint>23165</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>10</customerReviewRank>
+                
+                <bestDuration>종합 100위 3주</bestDuration><bestRank>9</bestRank>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+			<item itemId="33355947">
+			    <title>서랍에 저녁을 넣어 두었다 - 2024 노벨문학상 수상작가</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=33355947&amp;partner=openAPI&amp;start=api</link>
+				<author>한강 (지은이)</author>
+				<pubDate>2013-11-15</pubDate> 
+				<description>'문학과지성 시인선' 438권. 인간 삶의 고독과 비애, 삶과 죽음의 경계에서 맞닥뜨리는 어떤 진실과 본질적인 정서들을 특유의 단단하고 시정 어린 문체로 새겨온 한강의 첫 시집. 틈틈이 쓰고 발표한 시들 가운데 60편을 추려 이번 시집을 묶었다.</description>
+				<isbn>8932024634</isbn>
+				<isbn13>9788932024639</isbn13>
+				<priceSales>10800</priceSales>
+				<priceStandard>12000</priceStandard>
+				<mallType>BOOK</mallType>
+				<stockStatus></stockStatus>
+				<mileage>600</mileage>
+				<cover>https://image.aladin.co.kr/product/3335/59/coversum/8932024634_3.jpg</cover>
+				<categoryId>51167</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;시&gt;한국시</categoryName>
+				<publisher>문학과지성사</publisher>
+				<salesPoint>304750</salesPoint>
+                <adult>false</adult>
+				
+				<fixedPrice>true</fixedPrice>
+				
+				<customerReviewRank>9</customerReviewRank>
+                
+                <bestDuration>종합 10위 8주</bestDuration><bestRank>10</bestRank><seriesInfo><seriesId>4612</seriesId><seriesLink>http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=4612&amp;partner=openAPI</seriesLink><seriesName>문학과지성 시인선 438</seriesName></seriesInfo>
+                
+
+                
+			    <subInfo>
+			      
+                  
+                  
+                  
+                  
+			    </subInfo>
+                
+                
+                
+                
+			</item>
+			
+</object>
