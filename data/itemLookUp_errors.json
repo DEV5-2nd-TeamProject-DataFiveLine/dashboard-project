@@ -1,0 +1,142 @@
+[
+    {
+        "m": 1,
+        "w": 3,
+        "j": 27,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 3,
+        "w": 2,
+        "j": 22,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 3,
+        "w": 3,
+        "j": 9,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 5,
+        "w": 3,
+        "j": 0,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 5,
+        "w": 3,
+        "j": 41,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 5,
+        "w": 4,
+        "j": 5,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 5,
+        "w": 4,
+        "j": 6,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 6,
+        "w": 1,
+        "j": 8,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 6,
+        "w": 1,
+        "j": 40,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 7,
+        "w": 3,
+        "j": 7,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 8,
+        "w": 4,
+        "j": 12,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 9,
+        "w": 1,
+        "j": 1,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 9,
+        "w": 2,
+        "j": 19,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 9,
+        "w": 4,
+        "j": 6,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 10,
+        "w": 3,
+        "j": 26,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 10,
+        "w": 4,
+        "j": 11,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 10,
+        "w": 4,
+        "j": 33,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 11,
+        "w": 1,
+        "j": 34,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 11,
+        "w": 2,
+        "j": 8,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    },
+    {
+        "m": 12,
+        "w": 4,
+        "j": 11,
+        "isbn": "",
+        "error": "isbn13 is Empty!"
+    }
+]
