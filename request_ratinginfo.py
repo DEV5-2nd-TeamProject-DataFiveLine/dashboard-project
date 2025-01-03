@@ -7,7 +7,7 @@ from extract_ISBN import extract_isbn
 
 key = "ttbgland451437001"
 isbn = extract_isbn("bestseller_data")
-OptResult = "ratingInfo" #reviewList" #"ebookList","usedList",
+OptResult = "ratingInfo,ebookList,usedList,fileFormatList,c2binfo,packing,b2bSupply,subbarcode,cardReviewImgList,bestSellerRank" #reviewList" #"ebookList","usedList",
 Version = 20131101
 # 저장 디렉토리 설정
 directory = "rating_info_Data"

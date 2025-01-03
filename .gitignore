@@ -10,6 +10,7 @@ bestseller_data
 rating_info_Data
 aladin_dummy_data.txt
 ttbkey.txt
+rating_info_Parquet
 알라딘 Open API 매뉴얼.pdf
 
 # C extensions
