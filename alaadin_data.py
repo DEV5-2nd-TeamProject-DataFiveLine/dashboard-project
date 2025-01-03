@@ -3,7 +3,7 @@ import json
 import requests
 import time
 # 변수 설정
-key = "ttbgland451437001"
+key = ""
 QueryType = "Bestseller"
 MaxResults = 10
 Year = 2024
