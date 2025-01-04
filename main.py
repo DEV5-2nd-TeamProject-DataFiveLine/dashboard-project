@@ -7,9 +7,9 @@ from product_info_parquet import convert_product_info_json_to_parquet as p_parqu
 
 def main():
     # 설정할 매개변수
-    key = "ttblej0931438001"  # API 키를 여기에 입력하세요
+    key = ""  # API 키를 여기에 입력하세요
     QueryType = "Bestseller"  # 옵션: "NewRelease", "Bestseller", "Bestseller_Month", "Bestseller_Year"
-    MaxResults = 5  # 최대 결과 개수 (1000 ~ 10000)
+    MaxResults = 50  # 최대 결과 개수 (1000 ~ 10000)
     Year = 2024  # 베스트셀러 목록 연도
 
     # 출력 디렉터리 정의
