@@ -2,18 +2,30 @@ import os
 import json
 import requests
 import time
+import urllib
 
-def get_bestseller(key, QueryType, MaxResults, Year):
+def get_bestseller(key : str , QueryType : str ="Bestseller", MaxResults : int = 50, Year : int =2024):
     # 저장 디렉토리 설정
     directory = "bestseller_data"
     os.makedirs(directory, exist_ok=True)
+    base_url = "http://www.aladin.co.kr/ttb/api/ItemList.aspx"
 
     # 데이터 요청 및 저장
-    for i in range(1, 13):
-        for j in range(1, 5):
-            Month = i
-            Week = j
-            url = f"http://www.aladin.co.kr/ttb/api/ItemList.aspx?ttbkey={key}&QueryType={QueryType}&MaxResults={MaxResults}&start=1&SearchTarget=Book&output=JS&Version=20131101&Year={Year}&Month={Month}&Week={Week}"
+    for Month in range(1, 13):
+        for Week in range(1, 5):
+            params = {
+                'ttbkey': key,
+                'QueryType': QueryType,
+                'Year': Year,
+                'Month': Month,
+                'Week': Week,
+                'MaxResults': MaxResults,
+                'Start': '1',
+                'SearchTarget': 'Book',
+                'output': 'JS',
+                'Version': '20131101'
+            }
+            url = f"{base_url}?{urllib.parse.urlencode(params)}"
 
             # API 요청
             response = requests.get(url)

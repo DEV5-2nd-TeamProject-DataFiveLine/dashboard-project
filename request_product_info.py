@@ -4,8 +4,7 @@ import requests
 import time
 from extract_ISBN import extract_isbn
 
-
-def get_bookInfo(key):
+def get_bookInfo(key:str):
     isbn = extract_isbn("bestseller_data")
     OptResult = "ratingInfo,ebookList,usedList,fileFormatList,c2binfo,packing,b2bSupply,subbarcode,cardReviewImgList,bestSellerRank" #reviewList" #"ebookList","usedList",
     Version = 20131101
@@ -35,7 +34,7 @@ def get_bookInfo(key):
                     with open(file_path, "w", encoding="utf-8") as file:
                         json.dump(response_json, file, ensure_ascii=False, indent=4)
 
-                    print(f"Saved rating_info Data: {file_name}")
+                    print(f"Saved product_info Data: {file_name}")
                     break  # 성공하면 루프 종료
                 else:
                     print(f"Request failed for ISBN: {i} with status code {response.status_code}")
