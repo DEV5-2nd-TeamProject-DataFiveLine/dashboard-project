@@ -5,12 +5,12 @@ import time
 from extract_ISBN import extract_isbn
 
 
-key = ""
+key = "ttbgland451437001"
 isbn = extract_isbn("bestseller_data")
 OptResult = "ratingInfo,ebookList,usedList,fileFormatList,c2binfo,packing,b2bSupply,subbarcode,cardReviewImgList,bestSellerRank" #reviewList" #"ebookList","usedList",
 Version = 20131101
 # 저장 디렉토리 설정
-directory = "rating_info_Data"
+directory = "product_info"
 os.makedirs(directory, exist_ok=True)
 
 MAX_RETRIES = 3  # 최대 재시도 횟수
@@ -28,7 +28,7 @@ for i in isbn:
                 response_json = response.json()
 
                 # 파일 이름 생성
-                file_name = f"{i}_rating_info.json"
+                file_name = f"{i}_product_info.json"
                 file_path = os.path.join(directory, file_name)
 
                 # JSON 데이터를 파일로 저장

@@ -3,10 +3,10 @@ import requests
 import os
 from pandas import json_normalize
 
-key = ""
+key = "ttbgland451437001"
 
 # 기존 데이터 파일 로드
-input_dir = "/Users/ez/study/devcourse/project2/data"
+input_dir = "data"
 parquet_file = f"{input_dir}/bestseller_2024.parquet"
 output_parquet_file = f"{input_dir}/book_lookup.parquet"
 
@@ -35,24 +35,29 @@ for idx, row in df.iterrows():
         print(f"Request failed for ISBN {isbn}: {e}")
     print(f"row {idx} completed successfully")
 
-# 데이터 평탄화
+"""# 데이터 평탄화
 df = json_normalize(book_data)
 df = df.explode('subInfo.ebookList')
 
 # 'subInfo.ebookList' 평탄화
 ebook_details = json_normalize(df['subInfo.ebookList'])
-ebook_details = ebook_details.add_prefix('subInfo.ebookList.')
+ebook_details = ebook_details.add_prefix('subInfo.ebookList.')"""
 
 # index 재설정
+df = pd.DataFrame(book_data)
 df = df.reset_index(drop=True)
-ebook_details = ebook_details.reset_index(drop=True)
 print(df.index.is_unique)
-print(ebook_details.index.is_unique)
+#print(ebook_details.index.is_unique)
 
 # 기존데이터와 'subInfo.ebookList' 결합
-df = df.drop(columns=['subInfo.ebookList'])
-df = pd.concat([df, ebook_details], axis=1)
+#df = df.drop(columns=['subInfo.ebookList'])
+#df = pd.concat([df, ebook_details], axis=1)
 
 # 데이터 저장
 df.to_parquet(output_parquet_file, index=False)
+
+# CSV 저장
+output_csv_file = f"{input_dir}/book_lookup.csv"
+df.to_csv(output_csv_file, index=False, encoding="utf-8-sig")
+
 print(f"Parquet 파일 저장 완료: {output_parquet_file}")

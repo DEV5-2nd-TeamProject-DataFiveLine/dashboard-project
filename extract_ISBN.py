@@ -11,6 +11,7 @@ def extract_isbn(directory: str = "bestseller_data") -> list:
     Returns:
         list: 추출된 ISBN 목록.
     """
+    
     # 디렉토리 존재 확인
     if not os.path.exists(directory):
         print(f"Directory '{directory}' does not exist.")

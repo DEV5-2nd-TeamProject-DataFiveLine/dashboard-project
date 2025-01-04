@@ -2,8 +2,9 @@ import os
 import json
 import requests
 import time
+
 # 변수 설정
-key = ""
+key = "ttbgland451437001"
 QueryType = "Bestseller"
 MaxResults = 10
 Year = 2024
@@ -26,6 +27,11 @@ for i in range(1, 13):
             try:
                 # 응답을 JSON 형태로 변환
                 response_json = response.json()
+
+                # 주차 정보를 응답 데이터에 추가
+                response_json['Year'] = Year
+                response_json['Month'] = Month
+                response_json['Week'] = Week
 
                 # 파일 이름 생성
                 file_name = f"{Year}_Month{Month}_Week{Week}.json"

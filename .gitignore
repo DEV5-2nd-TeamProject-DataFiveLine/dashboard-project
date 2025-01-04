@@ -7,11 +7,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 bestseller_data
-rating_info_Data
 aladin_dummy_data.txt
 ttbkey.txt
-rating_info_Parquet
+product_info
 알라딘 Open API 매뉴얼.pdf
+bestseller_parquet
+bestseller_csv
+product_info_CSV
+product_info_parquet
 
 # C extensions
 *.so

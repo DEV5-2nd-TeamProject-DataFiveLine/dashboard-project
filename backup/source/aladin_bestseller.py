@@ -1,8 +1,9 @@
 import requests
 import json
+import os
 import pandas as pd
 
-key = ""
+key = "ttbgland451437001"
 year = "2024"
 
 bestseller_data = []
@@ -45,7 +46,10 @@ df = pd.DataFrame(bestseller_data)
 df = df.drop(columns=['subInfo'])
 
 # 데이터 저장
-output_dir = "/Users/ez/study/devcourse/project2/data"
-parquet_file = f"{output_dir}/bestseller_{year}.parquet"
+directory = "data"
+os.makedirs(directory, exist_ok=True)
+
+parquet_file = f"{directory}/bestseller_{year}.parquet"
+
 df.to_parquet(parquet_file, index=False)
 print(f"Parquet 파일 저장 완료: {parquet_file}")
