@@ -71,8 +71,7 @@
 - 베스트셀러와 신간 도서의 비교 차트를 Superset에서 구성.
 
 ## ERD
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/29dd0948-7b38-443b-af5a-c6bc908226ab/28cd84c1-0093-4ca0-97f1-f96d6deb3de9/image.png)
+<img width="705" alt="image" src="https://github.com/user-attachments/assets/7a105798-b576-4629-868d-ac8be0e5cb66" />
 
 ## 시스템 아키텍처
 
