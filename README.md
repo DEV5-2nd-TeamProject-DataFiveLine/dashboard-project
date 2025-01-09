@@ -1,4 +1,4 @@
-# DashBoard-Project
+<img width="1541" alt="image" src="https://github.com/user-attachments/assets/9f84e586-505c-4859-a434-6672fef83fc9" /># DashBoard-Project
 ## 분석배경 및 목표
 
 1. **도서 시장 동향 분석**: 
@@ -75,7 +75,8 @@
 
 ## 시스템 아키텍처
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/29dd0948-7b38-443b-af5a-c6bc908226ab/83570305-923b-47d5-a3e7-4cd22315ff24/image.png)
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/e6648b17-15be-4ac9-8326-e2c7ba1fe117" />
+
 
 # 전체 대시보드
 
@@ -89,11 +90,13 @@
 
 **사용자용 대시보드**는 인기 도서와 고객들이 참고할만한 정보를 시각적으로 전달함으로써 **도서 선택과 구매 의사결정을 지원**하는 것을 목적으로 설계했습니다.
 
-![▲ 관리자용 대시보드](https://prod-files-secure.s3.us-west-2.amazonaws.com/29dd0948-7b38-443b-af5a-c6bc908226ab/39d03a3e-4c41-4169-8b27-49822bff55a6/image.png)
+<img width="1541" alt="image" src="https://github.com/user-attachments/assets/8a5dba41-0343-49e6-b24c-459608170169" />
+
 
 ▲ 관리자용 대시보드
 
-![▲ 사용자용 대시보드](https://prod-files-secure.s3.us-west-2.amazonaws.com/29dd0948-7b38-443b-af5a-c6bc908226ab/a719977b-0dc5-49d0-b501-f753cde0ae37/image.png)
+![image](https://github.com/user-attachments/assets/9159784a-75b2-40b4-b18b-6dabf325780c)
+
 
 ▲ 사용자용 대시보드
  	
