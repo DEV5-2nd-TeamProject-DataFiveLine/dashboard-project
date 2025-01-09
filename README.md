@@ -1,4 +1,4 @@
-<img width="1541" alt="image" src="https://github.com/user-attachments/assets/9f84e586-505c-4859-a434-6672fef83fc9" /># DashBoard-Project
+# 독서 동향 분석
 ## 분석배경 및 목표
 
 1. **도서 시장 동향 분석**: 
